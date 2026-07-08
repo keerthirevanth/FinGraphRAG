@@ -1,0 +1,16 @@
+{
+  "ticker": "TXN",
+  "company": "Texas Instruments Incorporated",
+  "chunks_processed": 13,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Texas Instruments",
+      "relation": "invests_in",
+      "target": "Silicon Labs",
+      "evidence": "we have entered into a definitive agreement to acquire Silicon Labs for $231.00 per share in an all-cash transaction",
+      "ticker": "TXN",
+      "section": "7"
+    }
+  ]
+}

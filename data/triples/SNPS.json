@@ -1,0 +1,72 @@
+{
+  "ticker": "SNPS",
+  "company": "Synopsys, Inc.",
+  "chunks_processed": 34,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Synopsys",
+      "relation": "partner_of",
+      "target": "Microsoft",
+      "evidence": "developed in partnership with Microsoft Azure",
+      "ticker": "SNPS",
+      "section": "1"
+    },
+    {
+      "source": "Synopsys",
+      "relation": "subsidiary_of",
+      "target": "Ansys",
+      "evidence": "With ANSYS, Inc, (Ansys) now part of Synopsys",
+      "ticker": "SNPS",
+      "section": "1"
+    },
+    {
+      "source": "Synopsys",
+      "relation": "partner_of",
+      "target": "Ansys",
+      "evidence": "Synopsys' comprehensive suite of Ansys S&A software",
+      "ticker": "SNPS",
+      "section": "1"
+    },
+    {
+      "source": "Synopsys",
+      "relation": "supplier_of",
+      "target": "Keysight",
+      "evidence": "the date it was divested to Keysight Technologies, Inc.",
+      "ticker": "SNPS",
+      "section": "1"
+    },
+    {
+      "source": "Synopsys",
+      "relation": "competitor_of",
+      "target": "Ansys",
+      "evidence": "For our Ansys S&A software solutions, our competitors include publicly traded companies",
+      "ticker": "SNPS",
+      "section": "1"
+    },
+    {
+      "source": "Ansys",
+      "relation": "subsidiary_of",
+      "target": "Synopsys",
+      "evidence": "For our Ansys S&A software solutions...",
+      "ticker": "SNPS",
+      "section": "1A"
+    },
+    {
+      "source": "Ansys",
+      "relation": "supplier_of",
+      "target": "Synopsys",
+      "evidence": "software licenses in Ansys semiconductor products are not distinct from our obligation to provide unspecified software updates",
+      "ticker": "SNPS",
+      "section": "7"
+    },
+    {
+      "source": "Ansys",
+      "relation": "customer_of",
+      "target": "Synopsys",
+      "evidence": "the sale of Optical Solutions Group business in connection with the Ansys Merger",
+      "ticker": "SNPS",
+      "section": "7"
+    }
+  ]
+}

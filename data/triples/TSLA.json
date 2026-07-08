@@ -1,0 +1,104 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla, Inc.",
+  "chunks_processed": 33,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Tesla",
+      "relation": "partner_of",
+      "target": "Samsung",
+      "evidence": "announced a new collaboration with Samsung to manufacture advanced semiconductors for AI inference and training in the U.S.",
+      "ticker": "TSLA",
+      "section": "1"
+    },
+    {
+      "source": "Tesla",
+      "relation": "supplier_of",
+      "target": "FERC",
+      "evidence": "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets.",
+      "ticker": "TSLA",
+      "section": "1"
+    },
+    {
+      "source": "Tesla",
+      "relation": "customer_of",
+      "target": "NHTSA",
+      "evidence": "In the U.S., our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"),",
+      "ticker": "TSLA",
+      "section": "1"
+    },
+    {
+      "source": "Tesla",
+      "relation": "depends_on",
+      "target": "NHTSA",
+      "evidence": "we are also required to comply with other federal laws administered by NHTSA",
+      "ticker": "TSLA",
+      "section": "1"
+    },
+    {
+      "source": "Tesla",
+      "relation": "depends_on",
+      "target": "U.S. Department of Transportation",
+      "evidence": "federal law requires inclusion of fuel economy ratings, as determined by the U.S. Department of Transportation and the Environmental Protection Agency",
+      "ticker": "TSLA",
+      "section": "1"
+    },
+    {
+      "source": "Tesla",
+      "relation": "depends_on",
+      "target": "EPA",
+      "evidence": "federal law requires inclusion of fuel economy ratings, as determined by the U.S. Department of Transportation and the Environmental Protection Agency",
+      "ticker": "TSLA",
+      "section": "1"
+    },
+    {
+      "source": "Panasonic",
+      "relation": "supplier_of",
+      "target": "Tesla",
+      "evidence": "suppliers such as Panasonic",
+      "ticker": "TSLA",
+      "section": "1A"
+    },
+    {
+      "source": "Contemporary Amperex Technology",
+      "relation": "supplier_of",
+      "target": "Tesla",
+      "evidence": "suppliers such as... Contemporary Amperex Technology Co. Limited (CATL)",
+      "ticker": "TSLA",
+      "section": "1A"
+    },
+    {
+      "source": "Space Exploration Technologies",
+      "relation": "competitor_of",
+      "target": "Tesla",
+      "evidence": "competitive labor market",
+      "ticker": "TSLA",
+      "section": "1A"
+    },
+    {
+      "source": "Neuralink",
+      "relation": "competitor_of",
+      "target": "Tesla",
+      "evidence": "competitive labor market",
+      "ticker": "TSLA",
+      "section": "1A"
+    },
+    {
+      "source": "The Boring",
+      "relation": "competitor_of",
+      "target": "Tesla",
+      "evidence": "competitive labor market",
+      "ticker": "TSLA",
+      "section": "1A"
+    },
+    {
+      "source": "X.AI",
+      "relation": "competitor_of",
+      "target": "Tesla",
+      "evidence": "competitive labor market",
+      "ticker": "TSLA",
+      "section": "1A"
+    }
+  ]
+}

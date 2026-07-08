@@ -1,0 +1,288 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom Inc.",
+  "chunks_processed": 34,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "AT&T/Bell Labs",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "Our more than 60-year history of innovation dates back to our diverse origins from AT&T/Bell Labs, Lucent and Hewlett-Packard Company",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Lucent",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "Our more than 60-year history of innovation dates back to our diverse origins from AT&T/Bell Labs, Lucent and Hewlett-Packard Company",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Hewlett-Packard",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "Our more than 60-year history of innovation dates back to our diverse origins from AT&T/Bell Labs, Lucent and Hewlett-Packard Company",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "LSI",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "evolved through acquisitions, including LSI Corporation, Broadcom Corporation, Brocade Communications Systems, Inc., CA, Inc., Symantec Enterprise Security, and VMware, Inc. (\"VMware\")",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Brocade Communications Systems",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "evolved through acquisitions, including LSI Corporation, Broadcom Corporation, Brocade Communications Systems, Inc., CA, Inc., Symantec Enterprise Security, and VMware, Inc. (\"VMware\")",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "CA",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "evolved through acquisitions, including LSI Corporation, Broadcom Corporation, Brocade Communications Systems, Inc., CA, Inc., Symantec Enterprise Security, and VMware, Inc. (\"VMware\")",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Symantec",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "evolved through acquisitions, including LSI Corporation, Broadcom Corporation, Brocade Communications Systems, Inc., CA, Inc., Symantec Enterprise Security, and VMware, Inc. (\"VMware\")",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "VMware",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "evolved through acquisitions, including LSI Corporation, Broadcom Corporation, Brocade Communications Systems, Inc., CA, Inc., Symantec Enterprise Security, and VMware, Inc. (\"VMware\")",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware Cloud Foundation",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware vDefend",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware Avi Load Balancer",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware Tanzu Platform",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware Private AI",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "VMware Live Recovery",
+      "evidence": "Our customers may select additional advanced services, such as VMware vDefend, VMware Avi Load Balancer, VMware Tanzu Platform, VMware Private AI and VMware Live Recovery",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "depends_on",
+      "target": "VMware Cloud Foundation",
+      "evidence": "Telco Cloud Platform: This solution, built on VCF, supports network operations for telecom operators and communications service providers",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Symantec",
+      "evidence": "Our Symantec and Carbon Black endpoint security solutions are designed to prevent, detect and respond to emerging threats",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Carbon Black",
+      "evidence": "Our Symantec and Carbon Black endpoint security solutions are designed to prevent, detect and respond to emerging threats",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "TSMC",
+      "evidence": "The majority of our front-end wafer manufacturing operations is outsourced to external foundries, including Taiwan Semiconductor Manufacturing Company Limited (\"TSMC\").",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Advanced Semiconductor Engineering",
+      "evidence": "We use third-party CMs for a significant majority of our assembly and test operations, including TSMC, Advanced Semiconductor Engineering, Inc., Foxconn Technology Group, Amkor Technology, Inc. and Siliconware Precision Industries Co., Ltd.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Foxconn Technology Group",
+      "evidence": "We use third-party CMs for a significant majority of our assembly and test operations, including TSMC, Advanced Semiconductor Engineering, Inc., Foxconn Technology Group, Amkor Technology, Inc. and Siliconware Precision Industries Co., Ltd.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Amkor Technology",
+      "evidence": "We use third-party CMs for a significant majority of our assembly and test operations, including TSMC, Advanced Semiconductor Engineering, Inc., Foxconn Technology Group, Amkor Technology, Inc. and Siliconware Precision Industries Co., Ltd.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Siliconware Precision Industries",
+      "evidence": "We use third-party CMs for a significant majority of our assembly and test operations, including TSMC, Advanced Semiconductor Engineering, Inc., Foxconn Technology Group, Amkor Technology, Inc. and Siliconware Precision Industries Co., Ltd.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "LSI",
+      "evidence": "She was Vice President and Corporate Controller at LSI Corporation from 2007 until its acquisition by us in 2014.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "supplier_of",
+      "target": "Integrated Device Technology",
+      "evidence": "He was President and Chief Executive Officer at Integrated Circuit Systems, Inc., a publicly traded timing solutions IC company, from 1999 until its acquisition by Integrated Device Technology, Inc. in 2005.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "supplier_of",
+      "target": "Integrated Circuit Systems",
+      "evidence": "He was President and Chief Executive Officer at Integrated Circuit Systems, Inc., a publicly traded timing solutions IC company, from 1999 until its acquisition by Integrated Device Technology, Inc. in 2005.",
+      "ticker": "AVGO",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "invests_in",
+      "target": "VMware",
+      "evidence": "We have potential tax liabilities as a result of VMware's former controlling ownership by Dell, which could have an adverse effect on our financial condition and operating results.",
+      "ticker": "AVGO",
+      "section": "1A"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "U.S. Federal Trade Commission",
+      "evidence": "Our products and operations are also subject to regulation by U.S. and non-U.S. regulatory agencies, such as the U.S. Federal Trade Commission.",
+      "ticker": "AVGO",
+      "section": "1A"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "supplier_of",
+      "target": "TSMC",
+      "evidence": "During fiscal year 2025, approximately 95% of the wafers manufactured by our CMs were produced by TSMC.",
+      "ticker": "AVGO",
+      "section": "1A"
+    },
+    {
+      "source": "TSMC",
+      "relation": "supplier_of",
+      "target": "Broadcom",
+      "evidence": "TSMC also fabricates wafers for other companies, including some of our competitors",
+      "ticker": "AVGO",
+      "section": "1A"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "CMs",
+      "evidence": "those of our CMs, suppliers or customers, including data centers, due to natural- or man-made disasters",
+      "ticker": "AVGO",
+      "section": "1A"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Dell Technologies",
+      "evidence": "if the VMware spin-off from Dell in November 2021 is determined to not be tax-free",
+      "ticker": "AVGO",
+      "section": "1A"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "KKR &",
+      "evidence": "On July 1, 2024, we sold VMware's end-user computing (\"EUC\") business to KKR & Co. Inc. for cash consideration of $3.5 billion",
+      "ticker": "AVGO",
+      "section": "7"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "customer_of",
+      "target": "Seagate Technology",
+      "evidence": "On April 23, 2024, we acquired certain assets related to the design, development, and manufacture of System-on-Chip operations of Seagate Technology Holdings plc",
+      "ticker": "AVGO",
+      "section": "7"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "subsidiary_of",
+      "target": "VMware",
+      "evidence": "We assumed $8,250 million of VMware's outstanding senior unsecured notes.",
+      "ticker": "AVGO",
+      "section": "7"
+    }
+  ]
+}

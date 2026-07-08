@@ -1,0 +1,24 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon.com, Inc.",
+  "chunks_processed": 24,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Amazon",
+      "relation": "invests_in",
+      "target": "Anthropic",
+      "evidence": "invested in convertible notes from Anthropic",
+      "ticker": "AMZN",
+      "section": "7"
+    },
+    {
+      "source": "Amazon",
+      "relation": "invests_in",
+      "target": "Rivian Automotive",
+      "evidence": "marketable securities loss from our equity investment in Rivian",
+      "ticker": "AMZN",
+      "section": "7"
+    }
+  ]
+}

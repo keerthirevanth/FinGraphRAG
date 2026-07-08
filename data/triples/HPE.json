@@ -1,0 +1,472 @@
+{
+  "ticker": "HPE",
+  "company": "Hewlett Packard Enterprise Company",
+  "chunks_processed": 59,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "HPE",
+      "relation": "invests_in",
+      "target": "Juniper Networks",
+      "evidence": "Our acquisition of Juniper Networks, Inc. (\"Juniper Networks\") advances this strategy giving HPE a full networking technology stack",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "customer_of",
+      "target": "Intel",
+      "evidence": "single-source suppliers for the entire market; disruptions with these suppliers would result in industry-wide dislocations and therefore would not disproportionately disadvantage us relative to our competitors (e.g., Intel)",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "customer_of",
+      "target": "AMD",
+      "evidence": "single-source suppliers for the entire market; disruptions with these suppliers would result in industry-wide dislocations and therefore would not disproportionately disadvantage us relative to our competitors (e.g., AMD)",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "customer_of",
+      "target": "Broadcom",
+      "evidence": "single-source suppliers for the entire market; disruptions with these suppliers would result in industry-wide dislocations and therefore would not disproportionately disadvantage us relative to our competitors (e.g., Broadcom)",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "customer_of",
+      "target": "NVIDIA",
+      "evidence": "single-source suppliers for the entire market; disruptions with these suppliers would result in industry-wide dislocations and therefore would not disproportionately disadvantage us relative to our competitors (e.g., NVIDIA)",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "partner_of",
+      "target": "NVIDIA",
+      "evidence": "turn-key integrated systems co-engineered with Nvidia",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "customer_of",
+      "target": "Amazon",
+      "evidence": "software-defined cloud native deployments in Amazon Web Services",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Dell Technologies",
+      "evidence": "Our primary competitors in data center infrastructure are technology vendors, such as Dell Technologies Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Super Micro Computer",
+      "evidence": "Our primary competitors in data center infrastructure are technology vendors, such as Super Micro Computer, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Cisco Systems",
+      "evidence": "Our primary competitors in data center infrastructure are technology vendors, such as Cisco Systems, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Lenovo",
+      "evidence": "Our primary competitors in data center infrastructure are technology vendors, such as Lenovo Group Ltd.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Fujitsu",
+      "evidence": "Our primary competitors in high-performance infrastructure include technology vendors that can design and build solutions that deliver performance scalability and the connectivity necessary to handle super-compute and exascale workloads, such as Fujitsu Network Communications, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Atos Information Technology",
+      "evidence": "Our primary competitors in high-performance infrastructure include technology vendors that can design and build solutions that deliver performance scalability and the connectivity necessary to handle super-compute and exascale workloads, such as Atos Information Technology Incorporated.",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as Broadcom,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "IBM",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as IBM,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "NetApp",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as NetApp Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Nutanix",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as Nutanix,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Pure Storage",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as Pure Storage",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Amazon",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as public cloud vendors like Amazon Web Services,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Alphabet",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as public cloud vendors like Google Cloud,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Microsoft",
+      "evidence": "Our primary competitors are other infrastructure and cloud management software technology vendors, such as public cloud vendors like Microsoft Azure.",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Arista Networks",
+      "evidence": "Our primary competitors are technology vendors, such as Arista Networks Inc,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Nokia",
+      "evidence": "Our primary competitors are technology vendors, such as Nokia Corporation,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Huawei",
+      "evidence": "Our primary competitors are technology vendors, such as Huawei Technologies Co. Ltd.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Ciena",
+      "evidence": "Our primary competitors are technology vendors, such as Ciena Corporation,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "Our primary competitors are technology vendors, such as NVIDIA Corporation,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Extreme Networks",
+      "evidence": "Our primary competitors are technology vendors, such as Extreme Networks, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Palo Alto Networks",
+      "evidence": "Our primary competitors are technology vendors, such as Palo Alto Networks,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Fortinet",
+      "evidence": "Our primary competitors are technology vendors, such as Fortinet, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Zscaler",
+      "evidence": "Our primary competitors are technology vendors, such as Zscaler, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Netskope",
+      "evidence": "Our primary competitors are technology vendors, such as Netskope, Inc.,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Ruckus Networks",
+      "evidence": "Our primary competitors are technology vendors, such as Ruckus Networks,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Ubiquiti",
+      "evidence": "Our primary competitors are technology vendors, such as Ubiquiti",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Nile",
+      "evidence": "Our primary competitors are technology vendors, such as Nile",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Meter",
+      "evidence": "Our primary competitors are technology vendors, such as Meter",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "ERI",
+      "evidence": "Our primary IT Asset Disposition (\"ITAD\") competitors are ERI,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Ingram Micro",
+      "evidence": "Our primary IT Asset Disposition (\"ITAD\") competitors are Ingram Micro,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Sage Sustainable Electronics",
+      "evidence": "Our primary IT Asset Disposition (\"ITAD\") competitors are Sage Sustainable Electronics,",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Sims Recycling Solutions",
+      "evidence": "Our primary IT Asset Disposition (\"ITAD\") competitors are Sims Recycling Solutions.",
+      "ticker": "HPE",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "depends_on",
+      "target": "Juniper Networks",
+      "evidence": "Following the acquisition of Juniper Networks on July 2, 2025 (the \"Merger\"), we seek to enhance our networking solutions",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "subsidiary_of",
+      "target": "HP",
+      "evidence": "risks related to our separation from HP Inc., our former parent",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "partner_of",
+      "target": "Juniper Networks",
+      "evidence": "integrating Juniper Networks' offerings with ours",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "competitor_of",
+      "target": "Juniper Networks",
+      "evidence": "we expect will continue across a wider array of networking offerings due to the Merger",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "customer_of",
+      "target": "United States Department of Justice",
+      "evidence": "settlement reached by HPE and the United States Department of Justice",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "depends_on",
+      "target": "U.S. Foreign Corrupt Practices Act",
+      "evidence": "implement policies, procedures, and training designed to facilitate compliance with anti-corruption laws around the world, including the U.S. Foreign Corrupt Practices Act",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "supplier_of",
+      "target": "Moody's Investors Service",
+      "evidence": "We currently maintain investment grade credit ratings with Moody's Investors Service, Standard & Poor's Ratings Services, and Fitch Ratings Services.",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "supplier_of",
+      "target": "Standard & Poor's Ratings Services",
+      "evidence": "We currently maintain investment grade credit ratings with Moody's Investors Service, Standard & Poor's Ratings Services, and Fitch Ratings Services.",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "supplier_of",
+      "target": "Fitch Ratings Services",
+      "evidence": "We currently maintain investment grade credit ratings with Moody's Investors Service, Standard & Poor's Ratings Services, and Fitch Ratings Services.",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "partner_of",
+      "target": "HP",
+      "evidence": "entered into several agreements that determine the allocation of assets and liabilities between the companies following the Separation",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HP",
+      "relation": "supplier_of",
+      "target": "HPE",
+      "evidence": "HP Inc. agreed to indemnify us for certain liabilities",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "supplier_of",
+      "target": "HP",
+      "evidence": "we agreed to indemnify HP Inc. for certain liabilities",
+      "ticker": "HPE",
+      "section": "1A"
+    },
+    {
+      "source": "HPE",
+      "relation": "supplier_of",
+      "target": "NVIDIA",
+      "evidence": "GPUs",
+      "ticker": "HPE",
+      "section": "7"
+    },
+    {
+      "source": "HPE",
+      "relation": "subsidiary_of",
+      "target": "H3C",
+      "evidence": "our subsidiary, H3C Holdings Limited",
+      "ticker": "HPE",
+      "section": "7"
+    },
+    {
+      "source": "H3C",
+      "relation": "partner_of",
+      "target": "Unisplendour International Technology",
+      "evidence": "H3C Holdings and UNIS shall retain their put option and call option",
+      "ticker": "HPE",
+      "section": "7"
+    },
+    {
+      "source": "HPE",
+      "relation": "invests_in",
+      "target": "H3C",
+      "evidence": "Earnings from equity interests in H3C",
+      "ticker": "HPE",
+      "section": "7"
+    },
+    {
+      "source": "HPE",
+      "relation": "supplier_of",
+      "target": "UNIS",
+      "evidence": "divested 30% of the total issued share capital of H3C to UNIS",
+      "ticker": "HPE",
+      "section": "7"
+    },
+    {
+      "source": "HPE",
+      "relation": "partner_of",
+      "target": "HCLTech",
+      "evidence": "plans to divest our CTG business to HCLTech",
+      "ticker": "HPE",
+      "section": "7"
+    },
+    {
+      "source": "HPE",
+      "relation": "partner_of",
+      "target": "UNIS",
+      "evidence": "we entered into an Amended and Restated Put Share Purchase Agreement and an Agreement on Subsequent Arrangements, both with UNIS",
+      "ticker": "HPE",
+      "section": "7"
+    }
+  ]
+}

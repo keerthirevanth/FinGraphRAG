@@ -1,0 +1,208 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle Corporation",
+  "chunks_processed": 40,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Oracle",
+      "relation": "invests_in",
+      "target": "OCI",
+      "evidence": "We continue to invest in OCI to improve features and performance",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Adobe Systems",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Adobe Systems Incorporated",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Alphabet",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Alphabet Inc.",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Amazon",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Amazon.com, Inc.",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Cisco Systems",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Cisco Systems, Inc.",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Intel",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Intel Corporation",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "IBM",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including International Business Machines Corporation",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Microsoft",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Microsoft Corporation",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Salesforce",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Salesforce, Inc.",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "SAP",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including SAP SE",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "HPE",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Hewlett-Packard Enterprise",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Workday",
+      "evidence": "our enterprise cloud, software and hardware offerings compete directly with certain offerings from some of the largest and most competitive companies in the world, including Workday, Inc.",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Allscripts Healthcare Solutions",
+      "evidence": "following our acquisition of Cerner Corporation, we also face competition from large healthcare IT providers such as Allscripts Healthcare Solutions, Inc.",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Arcadia Solutions",
+      "evidence": "following our acquisition of Cerner Corporation, we also face competition from large healthcare IT providers such as Arcadia Solutions",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "Epic Systems",
+      "evidence": "following our acquisition of Cerner Corporation, we also face competition from large healthcare IT providers such as Epic Systems Corporation",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Oracle",
+      "relation": "competitor_of",
+      "target": "InterSystems",
+      "evidence": "following our acquisition of Cerner Corporation, we also face competition from large healthcare IT providers such as InterSystems Corporation",
+      "ticker": "ORCL",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "competitor_of",
+      "target": "Oracle",
+      "evidence": "compete with Oracle applications",
+      "ticker": "ORCL",
+      "section": "1A"
+    },
+    {
+      "source": "Amazon",
+      "relation": "competitor_of",
+      "target": "Oracle",
+      "evidence": "compete with Oracle applications",
+      "ticker": "ORCL",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Oracle",
+      "evidence": "compete with Oracle applications",
+      "ticker": "ORCL",
+      "section": "1A"
+    },
+    {
+      "source": "Oracle",
+      "relation": "customer_of",
+      "target": "U.S. government",
+      "evidence": "We derive revenues from contracts with the U.S. government",
+      "ticker": "ORCL",
+      "section": "1A"
+    },
+    {
+      "source": "Oracle",
+      "relation": "invests_in",
+      "target": "Ampere Computing",
+      "evidence": "a $2.7 billion gain from the sale of our investment in Ampere",
+      "ticker": "ORCL",
+      "section": "7"
+    },
+    {
+      "source": "Oracle",
+      "relation": "subsidiary_of",
+      "target": "Oracle Financial Services Software",
+      "evidence": "noncontrolling interests in the net profits of our majority-owned subsidiaries",
+      "ticker": "ORCL",
+      "section": "7"
+    },
+    {
+      "source": "Oracle",
+      "relation": "subsidiary_of",
+      "target": "Oracle Corporation Japan",
+      "evidence": "noncontrolling interests in the net profits of our majority-owned subsidiaries",
+      "ticker": "ORCL",
+      "section": "7"
+    },
+    {
+      "source": "Oracle",
+      "relation": "invests_in",
+      "target": "Ampere",
+      "evidence": "sale of our investments, primarily in Ampere",
+      "ticker": "ORCL",
+      "section": "7"
+    },
+    {
+      "source": "Oracle",
+      "relation": "customer_of",
+      "target": "Deutsche Bank Trust Company Americas",
+      "evidence": "Issuing and Paying Agency Agreement with Deutsche Bank Trust Company Americas",
+      "ticker": "ORCL",
+      "section": "7"
+    }
+  ]
+}

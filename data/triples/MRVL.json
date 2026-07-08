@@ -1,0 +1,464 @@
+{
+  "ticker": "MRVL",
+  "company": "Marvell Technology, Inc.",
+  "chunks_processed": 45,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Marvell Technology",
+      "relation": "invests_in",
+      "target": "Celestial AI",
+      "evidence": "acquisition of Celestial",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "invests_in",
+      "target": "XConn Technologies",
+      "evidence": "acquisition of XConn",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Infineon",
+      "relation": "customer_of",
+      "target": "Marvell Technology",
+      "evidence": "sale of our automotive ethernet business",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "supplier_of",
+      "target": "AI data centers",
+      "evidence": "Our LPO chipsets... address next-generation short-reach, compute fabric connectivity requirements inside AI data centers",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Celestial AI",
+      "relation": "supplier_of",
+      "target": "Marvell Technology",
+      "evidence": "The acquisition of Celestial further extends our interconnect portfolio with the addition of their Photonic Fabric solutions",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "XConn Technologies",
+      "relation": "supplier_of",
+      "target": "Marvell Technology",
+      "evidence": "XConn further extends our switch portfolio with the addition of their peripheral component interconnect express (\"PCIe\") and compute express link (\"CXL\") switches",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "depends_on",
+      "target": "Celestial AI",
+      "evidence": "We have added Photonic Fabric solutions from the acquisition of Celestial AI",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "depends_on",
+      "target": "XConn Technologies",
+      "evidence": "With the acquisition of XConn, we have expanded our portfolio",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "supplier_of",
+      "target": "HDD makers",
+      "evidence": "are being used by all the current HDD makers",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Distributor A",
+      "evidence": "Distributor: Distributor A 37% 34% 24%",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Taiwan subcontractors",
+      "evidence": "We typically outsource all product packaging and testing requirements for our products in production to several assembly and test subcontractors primarily located in Taiwan",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Canada subcontractors",
+      "evidence": "We typically outsource all product packaging and testing requirements for our products in production to several assembly and test subcontractors primarily located in Canada",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Korea subcontractors",
+      "evidence": "We typically outsource all product packaging and testing requirements for our products in production to several assembly and test subcontractors primarily located in Korea",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Singapore subcontractors",
+      "evidence": "We typically outsource all product packaging and testing requirements for our products in production to several assembly and test subcontractors primarily located in Singapore",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "China subcontractors",
+      "evidence": "We typically outsource all product packaging and testing requirements for our products in production to several assembly and test subcontractors primarily located in China",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "partner_of",
+      "target": "U.S. government",
+      "evidence": "We are now a party to certain contracts with the U.S. government",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "AMD",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Advanced Micro Devices, Inc. (\"AMD\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Alchip Technologies",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Alchip Technologies (\"Alchip\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Astera Labs",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Astera Labs, Inc.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Ayar Labs",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Ayar Labs, Inc. (\"Ayar Labs\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Broadcom Inc. (\"Broadcom\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Cisco Systems",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Cisco Systems, Inc. (\"Cisco\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Credo Technology Group Holding",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Credo Technology Group Holding Ltd",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Intel",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Intel Corporation",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Global Unichip",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Global Unichip Corporation (\"GUC\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Lightmatter",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Lightmatter, Inc. (\"Lightmatter\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "MACOM Technology Solutions",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, MACOM Technology Solutions Holdings, Inc.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "MediaTek",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, MediaTek Inc.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Microchip Technology",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Microchip Technology Inc.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Montage Technology",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Montage Technology",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Nvidia Corporation",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "NXP Semiconductors",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, NXP Semiconductors N.V.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Phison Electronics",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Phison Electronics Corporation",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Qualcomm Incorporated (\"Qualcomm\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Rambus",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Rambus, Inc.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Ranovus",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Ranovus Inc. (\"Ranovus\")",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Realtek Semiconductor",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Realtek Semiconductor Corporation",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Semtech",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Semtech Corporation",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Silicon Motion Technology",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Silicon Motion Technology Corporation",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "competitor_of",
+      "target": "Socionext",
+      "evidence": "Companies that compete directly with our businesses include, but are not limited to, Socionext Inc.",
+      "ticker": "MRVL",
+      "section": "1"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Taiwan",
+      "evidence": "where our third-party manufacturing partners or suppliers operate, such as Taiwan and elsewhere in the Pacific Rim",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Acacia Communications",
+      "evidence": "Cisco acquired Acacia Communications in 2021",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "AMD",
+      "evidence": "AMD acquired Xilinx, Inc. in February 2022 and Pensando Systems in May 2022",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Qualcomm",
+      "evidence": "Qualcomm acquired Veonner in April 2022",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Broadcom",
+      "evidence": "Broadcom acquired VMware in November 2023",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "EDA",
+      "evidence": "dependencies on EDA and similar tools",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Micron Technology",
+      "evidence": "the Cyberspace Administration of China banned the sale of Micron Technology, Inc.'s products to certain entities in China",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "U.S. government",
+      "evidence": "U.S. government interactions with U.S. semiconductor companies implied that as a condition to obtaining and maintaining export licenses for certain products and technologies destined for China, they remit to the U.S. government a fee equal to fifteen percent (15%) of the gross revenue derived from s",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "supplier_of",
+      "target": "China",
+      "evidence": "Export restrictions reducing our sales of products to China, have in the past and may in the future adversely impact our revenues, profits and results of operations.",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "supplier_of",
+      "target": "Taiwan",
+      "evidence": "Most of our products are manufactured by third-party foundries located in Taiwan.",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Infineon",
+      "evidence": "the Company sold its automotive ethernet business to Infineon Technologies AG for $2.5 billion",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "European Union",
+      "evidence": "In the United States (including in individual states), the European Union, and China, there are various current and proposed regulatory frameworks",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "China",
+      "evidence": "In the United States (including in individual states), the European Union, and China, there are various current and proposed regulatory frameworks",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Board of Directors",
+      "evidence": "re\u0932\u0947\u0915\u094d\u091f our Board of Directors, or attract and retain certain types of investors.",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "U.S. states",
+      "evidence": "several U.S. states and the current presidential administration have enacted or proposed \"anti-ESG\" policies or legislation.",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Silicon Valley Bank",
+      "evidence": "On March 10, 2023, Silicon Valley Bank (\"SVB\"), where we maintained certain accounts with an immaterial amount of cash deposits, was placed into receivership",
+      "ticker": "MRVL",
+      "section": "1A"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "customer_of",
+      "target": "Federal Deposit Insurance",
+      "evidence": "On March 10, 2023, Silicon Valley Bank (\"SVB\"), where we maintained certain accounts with an immaterial amount of cash deposits, was placed into receivership with the Federal Deposit Insurance Corporation (\"FDIC\")",
+      "ticker": "MRVL",
+      "section": "1A"
+    }
+  ]
+}

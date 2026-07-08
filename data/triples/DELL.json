@@ -1,0 +1,272 @@
+{
+  "ticker": "DELL",
+  "company": "Dell Technologies Inc.",
+  "chunks_processed": 87,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Dell Technologies",
+      "relation": "supplier_of",
+      "target": "VMware",
+      "evidence": "we acted as a distributor of VMware standalone products and services",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "VMware",
+      "relation": "supplier_of",
+      "target": "Dell Technologies",
+      "evidence": "we acted as a distributor of VMware standalone products and services",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "customer_of",
+      "target": "VMware",
+      "evidence": "our resale of standalone offerings of VMware LLC",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "invests_in",
+      "target": "VMware",
+      "evidence": "VMware was acquired by Broadcom Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "invests_in",
+      "target": "VMware",
+      "evidence": "We continue to integrate and embed certain VMware products and services with our VxRail solution",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "partner_of",
+      "target": "VMware",
+      "evidence": "We continue to integrate and embed certain VMware products and services with our VxRail solution",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "supplier_of",
+      "target": "Secureworks",
+      "evidence": "On February 3, 2025, Secureworks was acquired by Sophos Inc., an affiliate of Thoma Bravo, L.P.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "invests_in",
+      "target": "Thoma Bravo, L.P.",
+      "evidence": "Sophos Inc., an affiliate of Thoma Bravo, L.P.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "customer_of",
+      "target": "Satmetrix Systems",
+      "evidence": "Net Promoter Score is a trademark of Satmetrix Systems, Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "partner_of",
+      "target": "Bain &",
+      "evidence": "Net Promoter Score is a trademark of Bain & Company, Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "partner_of",
+      "target": "Fred Reichheld",
+      "evidence": "Net Promoter Score is a trademark of Fred Reichheld",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "invests_in",
+      "target": "Snowflake",
+      "evidence": "Mr. Scannell serves on the board of directors of Snowflake Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "invests_in",
+      "target": "IonQ",
+      "evidence": "Mr. Scannell serves on the advisory board of IonQ, Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "invests_in",
+      "target": "SecureWorks",
+      "evidence": "our historical resale of standalone offerings of VMware LLC and offerings of SecureWorks Corp.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "supplier_of",
+      "target": "Broadcom",
+      "evidence": "In March 2024, following the acquisition of VMware by Broadcom, we terminated our Commercial Framework Agreement with VMware",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "VMware",
+      "relation": "subsidiary_of",
+      "target": "Broadcom",
+      "evidence": "In March 2024, following the acquisition of VMware by Broadcom",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell International",
+      "relation": "subsidiary_of",
+      "target": "Dell Technologies",
+      "evidence": "Dell International L.L.C. ... is wholly-owned subsidiaries of Dell Technologies Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "EMC",
+      "relation": "subsidiary_of",
+      "target": "Dell Technologies",
+      "evidence": "EMC Corporation ... is wholly-owned subsidiaries of Dell Technologies Inc.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Denali Intermediate",
+      "relation": "subsidiary_of",
+      "target": "Dell Technologies",
+      "evidence": "Dell Technologies Inc. and its wholly-owned subsidiaries, Denali Intermediate, Inc. ...",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "subsidiary_of",
+      "target": "Sophos",
+      "evidence": "On February 3, 2025, the sale of SecureWorks Corp. (\"Secureworks\") to Sophos Inc., an affiliate of Thoma Bravo, L.P., was completed",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "partner_of",
+      "target": "Bread",
+      "evidence": "On October 4, 2023, the Company established a new consumer revolving financing program with Comenity Capital Bank, a subsidiary of Bread Financial Holdings, Inc. (\"Bread\")",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "supplier_of",
+      "target": "Bread Financial",
+      "evidence": "The Company also sold its U.S. consumer revolving customer receivables portfolio for total cash consideration of approximately $390 million",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Secureworks",
+      "relation": "subsidiary_of",
+      "target": "Dell Technologies",
+      "evidence": "majority-owned by Dell Technologies",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "partner_of",
+      "target": "DFS",
+      "evidence": "Dell Financial Services and its affiliates (\"DFS\") originate, collect, and service customer financing arrangements",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Bank",
+      "relation": "subsidiary_of",
+      "target": "Dell Technologies",
+      "evidence": "Dell Bank issued senior unsecured eurobonds",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "invests_in",
+      "target": "SPEs",
+      "evidence": "The Company transfers certain U.S. and European lease and loan payments and associated equipment to SPEs",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "SPEs",
+      "relation": "partner_of",
+      "target": "Dell Technologies",
+      "evidence": "The SPEs are bankruptcy-remote legal entities with separate assets and liabilities",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "VMware",
+      "relation": "customer_of",
+      "target": "Dell Technologies",
+      "evidence": "Dell Technologies sold and leased products and sold services to VMware.",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "depends_on",
+      "target": "VMware",
+      "evidence": "Dell Technologies integrated or bundled select VMware products and services with Dell Technologies' products",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "subsidiary_of",
+      "target": "EMC",
+      "evidence": "Dell International L.L.C., EMC Corporation",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell International",
+      "relation": "subsidiary_of",
+      "target": "EMC",
+      "evidence": "Dell International L.L.C., EMC Corporation",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "customer_of",
+      "target": "JPMorgan Chase Bank, N.A.",
+      "evidence": "Credit Agreement, dated as of November 1, 2021, among Dell Technologies Inc., Denali Intermediate Inc., Dell Inc., Dell International L.L.C., as a borrower, EMC Corporation, as a borrower, JPMorgan Chase Bank, N.A., as administrative agent",
+      "ticker": "DELL",
+      "section": "FULL"
+    },
+    {
+      "source": "Dell Technologies",
+      "relation": "depends_on",
+      "target": "JPMorgan Chase Bank, N.A.",
+      "evidence": "Credit Agreement, dated as of November 1, 2021, among Dell Technologies Inc., Denali Intermediate Inc., Dell Inc., Dell International L.L.C., as a borrower, EMC Corporation, as a borrower, JPMorgan Chase Bank, N.A., as administrative agent",
+      "ticker": "DELL",
+      "section": "FULL"
+    }
+  ]
+}

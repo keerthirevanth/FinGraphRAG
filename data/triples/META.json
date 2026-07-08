@@ -1,0 +1,144 @@
+{
+  "ticker": "META",
+  "company": "Meta Platforms, Inc.",
+  "chunks_processed": 53,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Meta",
+      "relation": "partner_of",
+      "target": "Ray-Ban",
+      "evidence": "Our current AI glasses include the Ray-Ban Meta and Oakley Meta glasses",
+      "ticker": "META",
+      "section": "1"
+    },
+    {
+      "source": "Meta",
+      "relation": "partner_of",
+      "target": "Oakley",
+      "evidence": "Our current AI glasses include the Ray-Ban Meta and Oakley Meta glasses",
+      "ticker": "META",
+      "section": "1"
+    },
+    {
+      "source": "Meta",
+      "relation": "competitor_of",
+      "target": "TikTok",
+      "evidence": "competitive products and services, such as TikTok",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "Meta",
+      "evidence": "changes by mobile operating system and browser providers such as Apple and Google",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Meta",
+      "evidence": "changes by mobile operating system and browser providers such as Apple and Google",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "depends_on",
+      "target": "Apple",
+      "evidence": "changes to its iOS operating system",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "depends_on",
+      "target": "Alphabet",
+      "evidence": "Android operating system",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "supplier_of",
+      "target": "Meta",
+      "evidence": "changes to its iOS operating system",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "supplier_of",
+      "target": "Meta",
+      "evidence": "Android operating system",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "customer_of",
+      "target": "Apple",
+      "evidence": "Apple previously released an update",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "customer_of",
+      "target": "Alphabet",
+      "evidence": "Google previously proposed phasing out",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "invests_in",
+      "target": "Instagram",
+      "evidence": "acquisitions of Instagram",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "invests_in",
+      "target": "WhatsApp",
+      "evidence": "acquisitions of Instagram and WhatsApp",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "invests_in",
+      "target": "Giphy",
+      "evidence": "divestiture of Giphy",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Meta",
+      "relation": "invests_in",
+      "target": "Within Unlimited",
+      "evidence": "proposed acquisition of Within Unlimited",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "Instagram",
+      "relation": "subsidiary_of",
+      "target": "Meta",
+      "evidence": "acquiring Instagram",
+      "ticker": "META",
+      "section": "1A"
+    },
+    {
+      "source": "WhatsApp",
+      "relation": "subsidiary_of",
+      "target": "Meta",
+      "evidence": "acquiring WhatsApp",
+      "ticker": "META",
+      "section": "1A"
+    }
+  ]
+}

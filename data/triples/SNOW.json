@@ -1,0 +1,184 @@
+{
+  "ticker": "SNOW",
+  "company": "Snowflake Inc.",
+  "chunks_processed": 56,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Snowflake",
+      "relation": "customer_of",
+      "target": "Forbes Global 2000",
+      "evidence": "our customers included 790 of the Forbes Global 2000",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "supplier_of",
+      "target": "Apache Iceberg",
+      "evidence": "connected from external storage like Apache Iceberg tables",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "partner_of",
+      "target": "GSIs",
+      "evidence": "scaling the AI Data Cloud through high-impact alliances with enterprise SaaS platforms to harmonize mission-critical data, and Global System Integrators (GSIs) to drive large-scale digital transformations",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "partner_of",
+      "target": "enterprise SaaS platforms",
+      "evidence": "scaling the AI Data Cloud through high-impact alliances with enterprise SaaS platforms to harmonize mission-critical data, and Global System Integrators (GSIs) to drive large-scale digital transformations",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "invests_in",
+      "target": "Observe",
+      "evidence": "In February 2026, we acquired Observe, Inc. (Observe), a leader in AI-powered observability",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "competitor_of",
+      "target": "Amazon",
+      "evidence": "Our competition includes large, well-established, public cloud providers that generally compete in all of our markets, including Amazon Web Services (AWS)",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "competitor_of",
+      "target": "Microsoft",
+      "evidence": "Our competition includes large, well-established, public cloud providers that generally compete in all of our markets, including Microsoft Azure (Azure)",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "competitor_of",
+      "target": "Alphabet",
+      "evidence": "Our competition includes large, well-established, public cloud providers that generally compete in all of our markets, including Google Cloud Platform (GCP)",
+      "ticker": "SNOW",
+      "section": "1"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "competitor_of",
+      "target": "GCP",
+      "evidence": "our current competitors include large, well-established, public cloud providers that generally compete in all of our markets, including GCP",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Amazon",
+      "relation": "competitor_of",
+      "target": "Snowflake",
+      "evidence": "our current competitors include large, well-established, public cloud providers that generally compete in all of our markets, including AWS",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "competitor_of",
+      "target": "Snowflake",
+      "evidence": "our current competitors include large, well-established, public cloud providers that generally compete in all of our markets, including Azure",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "GCP",
+      "relation": "competitor_of",
+      "target": "Snowflake",
+      "evidence": "our current competitors include large, well-established, public cloud providers that generally compete in all of our markets, including GCP",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "customer_of",
+      "target": "Amazon",
+      "evidence": "our platform currently operates on public cloud infrastructure provided by Amazon Web Services (AWS)",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "customer_of",
+      "target": "Microsoft",
+      "evidence": "our platform currently operates on public cloud infrastructure provided by Microsoft Azure (Azure)",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "customer_of",
+      "target": "GCP",
+      "evidence": "our platform currently operates on public cloud infrastructure provided by Google Cloud Platform (GCP)",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "invests_in",
+      "target": "Night Shift Development",
+      "evidence": "acquired several companies, including Night Shift Development, Inc.",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "invests_in",
+      "target": "Datavolo",
+      "evidence": "acquired several companies, including Datavolo, Inc.",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "invests_in",
+      "target": "Crunchy Data Solutions",
+      "evidence": "acquired several companies, including Crunchy Data Solutions, Inc.",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "invests_in",
+      "target": "TensorStax",
+      "evidence": "acquired several companies, including TensorStax, Inc.",
+      "ticker": "SNOW",
+      "section": "1A"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "partner_of",
+      "target": "Crunchy Data Solutions",
+      "evidence": "we acquired all of the outstanding capital stock of Crunchy Data Solutions, Inc. (Crunchy Data)",
+      "ticker": "SNOW",
+      "section": "7"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "partner_of",
+      "target": "Observe",
+      "evidence": "we acquired all the outstanding capital stock of Observe, Inc. (Observe)",
+      "ticker": "SNOW",
+      "section": "7"
+    },
+    {
+      "source": "Snowflake",
+      "relation": "invests_in",
+      "target": "AI Technology",
+      "evidence": "investments in AI Technology",
+      "ticker": "SNOW",
+      "section": "7"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# Language model access. The self-hosted model exposes an OpenAI-compatible
+# API, so the official OpenAI client is used purely as a transport layer
+# pointed at our own server URL.
+openai>=1.30.0
+
+# Loads configuration (server URL, model name) from a local .env file so that
+# no environment-specific values are hard-coded in the source.
+python-dotenv>=1.0.0
+
+# Downloads company filings (10-K) from SEC EDGAR. Handles the required
+# User-Agent header and the EDGAR request conventions for us.
+sec-edgar-downloader>=5.0.0
+
+# Parses the filing HTML into clean text.
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# In-memory knowledge graph. At this corpus size (hundreds of nodes) an
+# embedded graph beats an external database: no service to run, fully
+# reproducible from a clone. A server-based store like Neo4j only pays off
+# at much larger scale or with concurrent writers.
+networkx>=3.2
+
+# Local embedding model for the vector retrieval baseline. Runs on CPU, so
+# retrieval costs nothing and the API budget is reserved for generation.
+sentence-transformers>=3.0.0
+numpy>=1.26.0
+
+# Web interface for the side-by-side comparison, plus interactive graph
+# visualisation of company relationships.
+streamlit>=1.36.0
+pyvis>=0.3.2

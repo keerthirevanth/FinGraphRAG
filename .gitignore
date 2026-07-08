@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+
+# Large or regenerable data artifacts (kept out of version control).
+# The compact, interesting outputs (triples, the knowledge graph, and the
+# evaluation set/results) are deliberately committed so the repository is
+# browsable without re-running the pipeline.
+data/raw/
+data/interim/
+data/processed/
+data/cache/
+data/vector_index/
+*.pdf
+*.sqlite
+*.db
+*.npy
+
+# Run logs
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE / OS / tooling
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db

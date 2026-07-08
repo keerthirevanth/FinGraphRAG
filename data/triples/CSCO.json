@@ -1,0 +1,208 @@
+{
+  "ticker": "CSCO",
+  "company": "Cisco Systems, Inc.",
+  "chunks_processed": 40,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Cisco Systems",
+      "relation": "partner_of",
+      "target": "Splunk",
+      "evidence": "our acquisition of Splunk Inc. (\"Splunk\")",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "supplier_of",
+      "target": "ThousandEyes",
+      "evidence": "Our network assurance capabilities, powered by ThousandEyes,",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "ThousandEyes",
+      "relation": "supplier_of",
+      "target": "Cisco Systems",
+      "evidence": "Our network assurance capabilities, powered by ThousandEyes,",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "supplier_of",
+      "target": "Splunk",
+      "evidence": "In the third quarter of fiscal 2024, we acquired Splunk, a recognized leader in security analytics and observability.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "customer_of",
+      "target": "Amazon",
+      "evidence": "We compete with numerous vendors in each product category, including Amazon Web Services LLC",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Arista Networks",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Arista Networks, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Broadcom Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Ciena",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Ciena Corporation",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "CrowdStrike",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: CrowdStrike Holdings, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Datadog",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Datadog Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Dell Technologies",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Dell Technologies Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Dynatrace",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Dynatrace Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Fortinet",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Fortinet, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "HPE",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Hewlett-Packard Enterprise Company",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Huawei",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Huawei Technologies Co., Ltd.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Microsoft",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Microsoft Corporation",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "New Relic",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: New Relic, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Nokia",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Nokia Corporation",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Nvidia Corporation",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Palo Alto Networks",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Palo Alto Networks, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "RingCentral",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: RingCentral, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Zoom Video Communications",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Zoom Video Communications, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "competitor_of",
+      "target": "Zscaler",
+      "evidence": "Our competitors (in each case relative to only some of our products or services) include: Zscaler, Inc.",
+      "ticker": "CSCO",
+      "section": "1"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "depends_on",
+      "target": "Splunk",
+      "evidence": "recent acquisitions, including our acquisition of Splunk",
+      "ticker": "CSCO",
+      "section": "1A"
+    },
+    {
+      "source": "Cisco Systems",
+      "relation": "customer_of",
+      "target": "Splunk",
+      "evidence": "companies that have large and widespread operations and/or complex products (such as Splunk)",
+      "ticker": "CSCO",
+      "section": "1A"
+    }
+  ]
+}

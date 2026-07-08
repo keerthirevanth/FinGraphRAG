@@ -1,0 +1,41 @@
+{
+  "description": "Curated AI / semiconductor / cloud ecosystem. Companies are chosen for dense interconnection (suppliers, customers, competitors) so the knowledge graph has rich multi-hop paths. All are US domestic 10-K filers on SEC EDGAR.",
+  "companies": [
+    {"ticker": "NVDA", "name": "NVIDIA Corporation", "group": "chip_design"},
+    {"ticker": "AMD", "name": "Advanced Micro Devices, Inc.", "group": "chip_design"},
+    {"ticker": "INTC", "name": "Intel Corporation", "group": "chip_design"},
+    {"ticker": "AVGO", "name": "Broadcom Inc.", "group": "chip_design"},
+    {"ticker": "QCOM", "name": "QUALCOMM Incorporated", "group": "chip_design"},
+    {"ticker": "MRVL", "name": "Marvell Technology, Inc.", "group": "chip_design"},
+    {"ticker": "MU", "name": "Micron Technology, Inc.", "group": "chip_design"},
+    {"ticker": "TXN", "name": "Texas Instruments Incorporated", "group": "chip_design"},
+    {"ticker": "ADI", "name": "Analog Devices, Inc.", "group": "chip_design"},
+    {"ticker": "NXPI", "name": "NXP Semiconductors N.V.", "group": "chip_design"},
+    {"ticker": "ON", "name": "ON Semiconductor Corporation", "group": "chip_design"},
+
+    {"ticker": "AMAT", "name": "Applied Materials, Inc.", "group": "equipment_eda"},
+    {"ticker": "LRCX", "name": "Lam Research Corporation", "group": "equipment_eda"},
+    {"ticker": "KLAC", "name": "KLA Corporation", "group": "equipment_eda"},
+    {"ticker": "SNPS", "name": "Synopsys, Inc.", "group": "equipment_eda"},
+    {"ticker": "CDNS", "name": "Cadence Design Systems, Inc.", "group": "equipment_eda"},
+
+    {"ticker": "MSFT", "name": "Microsoft Corporation", "group": "hyperscaler_customer"},
+    {"ticker": "GOOGL", "name": "Alphabet Inc.", "group": "hyperscaler_customer"},
+    {"ticker": "AMZN", "name": "Amazon.com, Inc.", "group": "hyperscaler_customer"},
+    {"ticker": "META", "name": "Meta Platforms, Inc.", "group": "hyperscaler_customer"},
+    {"ticker": "AAPL", "name": "Apple Inc.", "group": "hyperscaler_customer"},
+    {"ticker": "ORCL", "name": "Oracle Corporation", "group": "hyperscaler_customer"},
+    {"ticker": "TSLA", "name": "Tesla, Inc.", "group": "hyperscaler_customer"},
+
+    {"ticker": "SMCI", "name": "Super Micro Computer, Inc.", "group": "server_networking"},
+    {"ticker": "DELL", "name": "Dell Technologies Inc.", "group": "server_networking"},
+    {"ticker": "HPE", "name": "Hewlett Packard Enterprise Company", "group": "server_networking"},
+    {"ticker": "ANET", "name": "Arista Networks, Inc.", "group": "server_networking"},
+    {"ticker": "CSCO", "name": "Cisco Systems, Inc.", "group": "server_networking"},
+    {"ticker": "WDC", "name": "Western Digital Corporation", "group": "server_networking"},
+    {"ticker": "STX", "name": "Seagate Technology Holdings plc", "group": "server_networking"},
+
+    {"ticker": "PLTR", "name": "Palantir Technologies Inc.", "group": "ai_software"},
+    {"ticker": "SNOW", "name": "Snowflake Inc.", "group": "ai_software"}
+  ]
+}

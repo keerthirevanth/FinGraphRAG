@@ -1,0 +1,32 @@
+{
+  "ticker": "LRCX",
+  "company": "Lam Research Corporation",
+  "chunks_processed": 26,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Lam Research",
+      "relation": "customer_of",
+      "target": "Samsung",
+      "evidence": "Our most significant customers during the fiscal years ending June 29, 2025, June 30, 2024, and June 25, 2023 included Samsung Electronics Company, Ltd.",
+      "ticker": "LRCX",
+      "section": "1"
+    },
+    {
+      "source": "Lam Research",
+      "relation": "customer_of",
+      "target": "TSMC",
+      "evidence": "Our most significant customers during the fiscal years ending June 29, 2025, June 30, 2024, and June 25, 2023 included Taiwan Semiconductor Manufacturing Company",
+      "ticker": "LRCX",
+      "section": "1"
+    },
+    {
+      "source": "Lam Research",
+      "relation": "supplier_of",
+      "target": "Huawei",
+      "evidence": "The U.S. Department of Commerce ... could cause foreign-made wafers ... produced with many of our products to be subject to U.S. licensing requirements if Huawei Technologies Co. Ltd ... are parties to a transaction involving the items.",
+      "ticker": "LRCX",
+      "section": "1A"
+    }
+  ]
+}

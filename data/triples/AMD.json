@@ -1,0 +1,400 @@
+{
+  "ticker": "AMD",
+  "company": "Advanced Micro Devices, Inc.",
+  "chunks_processed": 43,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "AMD",
+      "relation": "invests_in",
+      "target": "ZT Group Int'l",
+      "evidence": "In March 2025, we acquired ZT Group Int'l, Inc. (ZT Systems)",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "Sanmina",
+      "evidence": "In October 2025, we sold the ZT data center infrastructure manufacturing business (ZT Manufacturing Business) to Sanmina Corporation",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "OpenAI",
+      "evidence": "In October 2025, we entered into a product purchase agreement with OpenAI OpCo, LLC, (OpenAI) to deploy 6 gigawatts of AMD GPUs",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "Asus",
+      "evidence": "the new Asus ROG Xbox Ally",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "Microsoft",
+      "evidence": "Microsoft Copilot+ PCs",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "Sony",
+      "evidence": "Sony PlayStation 5",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "Valve",
+      "evidence": "Valve Steam Machine PC",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "VARs",
+      "evidence": "We are also developing a network of Value Added Resellers (VARs) and Integrated Solution Vendors (ISVs) for our Alveo products.",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "Intel",
+      "evidence": "Our primary competitor in the supply of CPUs and APUs is Intel.",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "NVIDIA",
+      "evidence": "Our principal competitor in the supply of discrete graphics is Nvidia, who is the discrete GPU market share leader",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Intel",
+      "evidence": "In the Data Center segment, we compete primarily against Intel Corporation",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "In the Data Center segment, we compete primarily against ... Nvidia Corporation",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Altera",
+      "evidence": "In the Data Center segment, we compete primarily against ... Altera with our FPGA and adaptive SoC server products",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Lattice Semiconductor",
+      "evidence": "We expect continued competition from our primary FPGA competitors such as Lattice Semiconductor Corporation",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Microsemi",
+      "evidence": "We expect continued competition from our primary FPGA competitors such as Microsemi Corporation",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "We expect continued competition from ASSP vendors such as Broadcom Corporation",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Marvell Technology",
+      "evidence": "We expect continued competition from ASSP vendors such as Marvell Technology Group, Ltd.",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Analog Devices",
+      "evidence": "We expect continued competition from ASSP vendors such as Analog Devices",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Texas Instruments",
+      "evidence": "We expect continued competition from ASSP vendors such as Texas Instruments Incorporated",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "NXP Semiconductors",
+      "evidence": "We expect continued competition from ASSP vendors such as NXP Semiconductors N.V.",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "We expect continued competition from ASSP vendors such as Qualcomm Incorporated",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "TSMC",
+      "evidence": "We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "GLOBALFOUNDRIES",
+      "evidence": "We utilize GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "United Microelectronics",
+      "evidence": "We utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "supplier_of",
+      "target": "Samsung",
+      "evidence": "We utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "Tongfu Microelectronics",
+      "evidence": "We are party to two ATMP joint ventures (collectively, the ATMP JVs) with Tongfu Microelectronics Co., Ltd.",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "Siliconware Precision Industries",
+      "evidence": "The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP services for our products",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "King Yuan Electronics",
+      "evidence": "The ATMP JVs, Siliconware Precision Industries Ltd. (SPIL) and King Yuan Electronics Company (KYEC) provide ATMP services for our products",
+      "ticker": "AMD",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Intel",
+      "evidence": "in September 2025, Nvidia announced a partnership and investment in Intel to partner on new data center and client platform products.",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "Sony",
+      "evidence": "success of game console systems and next generation consoles for Sony",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "Microsoft",
+      "evidence": "success of game console systems and next generation consoles for Microsoft",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "TSMC",
+      "evidence": "We rely on Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of all wafers for microprocessor and GPU products at 7 nanometer (nm) or smaller nodes",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "GLOBALFOUNDRIES",
+      "evidence": "we rely primarily on GLOBALFOUNDRIES Inc. (GF) for wafers for microprocessor and GPU products manufactured at process nodes larger than 7 nm",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "United Microelectronics",
+      "evidence": "We also utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for our integrated circuits (IC) in the form of programmable logic devices",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "Samsung",
+      "evidence": "We also utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for our integrated circuits (IC) in the form of programmable logic devices",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "Tongfu Microelectronics",
+      "evidence": "We are party to two ATMP joint ventures (collectively, the ATMP JVs) with affiliates of Tongfu Microelectronics Co., Ltd.",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "UMC",
+      "evidence": "we rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes for our IC products",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "depends_on",
+      "target": "third-party IT Systems",
+      "evidence": "rely on critical third-party IT Systems, products and services",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "depends_on",
+      "target": "Microsoft",
+      "evidence": "Our ability to innovate beyond the x86 instruction set controlled by Intel depends partially on Microsoft designing and developing its operating systems to run on or support our x86-based microprocessor products.",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "Intel",
+      "evidence": "our microprocessors are not designed to function with motherboards and chipsets designed to work with Intel microprocessors",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "U.S. government",
+      "evidence": "applied for and were granted some licenses by the U.S. government",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "Higon Information Technology",
+      "evidence": "We have equity interests in two joint ventures (collectively, the THATIC JV) with Higon Information Technology Co., Ltd. (THATIC)",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "Xilinx",
+      "relation": "subsidiary_of",
+      "target": "AMD",
+      "evidence": "We unconditionally guarantee, on a senior unsecured basis, Xilinx's obligations under the Xilinx's 2.375% Notes due 2030 (the Assumed Xilinx Notes).",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "invests_in",
+      "target": "ZT Systems",
+      "evidence": "in March 2025, we completed our acquisition of ZT Systems",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "partner_of",
+      "target": "THATIC JV",
+      "evidence": "THATIC JV",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "depends_on",
+      "target": "ATMP JVs",
+      "evidence": "the majority of our ATMP services are provided by the ATMP JVs",
+      "ticker": "AMD",
+      "section": "1A"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "OpenAI",
+      "evidence": "we entered into a product purchase agreement with OpenAI OpCo, LLC, (OpenAI) to deploy 6 gigawatts of AMD GPUs",
+      "ticker": "AMD",
+      "section": "7"
+    },
+    {
+      "source": "AMD",
+      "relation": "customer_of",
+      "target": "Sanmina",
+      "evidence": "sale of the ZT Manufacturing Business to Sanmina Corporation",
+      "ticker": "AMD",
+      "section": "7"
+    },
+    {
+      "source": "Sanmina",
+      "relation": "supplier_of",
+      "target": "AMD",
+      "evidence": "received 1.2 million shares of Sanmina common stock valued at $154 million",
+      "ticker": "AMD",
+      "section": "7"
+    }
+  ]
+}

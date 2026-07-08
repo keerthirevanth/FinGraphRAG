@@ -1,0 +1,712 @@
+{
+  "ticker": "INTC",
+  "company": "Intel Corporation",
+  "chunks_processed": 92,
+  "parse_failures": 1,
+  "triples": [
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "NVIDIA",
+      "evidence": "announced a strategic partnership with NVIDIA to co-develop custom client and data center products",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "supplier_of",
+      "target": "Altera",
+      "evidence": "we completed the divestiture of 51% of Altera",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "invests_in",
+      "target": "Intel Foundry",
+      "evidence": "continued investing in ecosystem enablement to make our manufacturing network accessible to third-party external customers",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "AMD",
+      "evidence": "CCG's primary competitor is AMD",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "Apple",
+      "evidence": "companies that design processors based on the ARM architecture, such as Apple with its M series products",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "companies that design processors based on the ARM architecture, such as Qualcomm with its Snapdragon products",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "MediaTek",
+      "evidence": "companies that design processors based on the ARM architecture, such as MediaTek with its Kompanio products",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "providers of GPU systems such as NVIDIA",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "We also compete with Broadcom in the custom ASICs development market",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "supplier_of",
+      "target": "CSP/hyperscalers",
+      "evidence": "Our direct customers include global CSP/hyperscalers and OEMs",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "TSMC",
+      "evidence": "Our primary competitor in leading-edge semiconductor process technology is TSMC, which holds a leading position in manufacturing at scale for the most advanced nodes.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "Samsung",
+      "evidence": "We also compete directly with Samsung in this market.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "GlobalFoundries",
+      "evidence": "Other Intel Foundry competitors include GlobalFoundries, UMC and SMIC, which primarily focus on mature process technologies.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "UMC",
+      "evidence": "Other Intel Foundry competitors include GlobalFoundries, UMC and SMIC, which primarily focus on mature process technologies.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "SMIC",
+      "evidence": "Other Intel Foundry competitors include GlobalFoundries, UMC and SMIC, which primarily focus on mature process technologies.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "invests_in",
+      "target": "Mobileye",
+      "evidence": "As of December 27, 2025, we continued to consolidate Mobileye and held equity interests representing an 80% ownership interest in Mobileye;",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "invests_in",
+      "target": "IMS",
+      "evidence": "As of December 27, 2025, we continued to consolidate IMS and held equity interests representing a 68% ownership interest in IMS;",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "TSMC",
+      "evidence": "We believe we are one of three companies (the others being TSMC and Samsung) investing in 2nm lithography and next-generation transistor architectures to deliver continued improvements in performance and efficiency for semiconductor logic chips.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "depends_on",
+      "target": "TSMC",
+      "evidence": "utilized third-party foundry manufacturing capacity, including at one of our key foundry competitors, TSMC",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "UMC",
+      "evidence": "strategic collaboration with UMC to develop a 12 nm process platform",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "customer_of",
+      "target": "ASML",
+      "evidence": "EUV lithography tools manufactured by ASML",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "invests_in",
+      "target": "SoftBank Group",
+      "evidence": "we entered into an agreement with SoftBank Group to issue and sell to SoftBank Group 87 million shares of our common stock",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "invests_in",
+      "target": "NVIDIA",
+      "evidence": "we entered into an agreement with NVIDIA to issue and sell to NVIDIA 215 million shares of our common stock",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "subsidiary_of",
+      "target": "SLP VII Gryphon Aggregator, L.P.",
+      "evidence": "an affiliate of SLP",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "invests_in",
+      "target": "Altera",
+      "evidence": "we retained a 49% minority investment in Altera",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "SLP VII Gryphon Aggregator, L.P.",
+      "relation": "invests_in",
+      "target": "Altera",
+      "evidence": "completed the divestiture of 51% of Altera",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "subsidiary_of",
+      "target": "Mobileye",
+      "evidence": "majority owned subsidiaries that we consolidate",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "subsidiary_of",
+      "target": "IMS Nanofabrication",
+      "evidence": "majority owned subsidiaries that we consolidate",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "subsidiary_of",
+      "target": "Ireland SCIP",
+      "evidence": "majority owned subsidiaries that we consolidate",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "subsidiary_of",
+      "target": "Arizona SCIP",
+      "evidence": "majority owned subsidiaries that we consolidate",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "supplier_of",
+      "target": "Intel Foundry",
+      "evidence": "The manufacturing of our Intel Products offerings is performed by Intel Foundry",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "depends_on",
+      "target": "Intel Foundry",
+      "evidence": "supply constraints on our internally manufactured wafers",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "subsidiary_of",
+      "target": "Altera",
+      "evidence": "Altera, previously a wholly-owned subsidiary",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Mentee Robotics",
+      "evidence": "Mobileye entered into a definitive agreement to acquire Mentee Robotics",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "SCIP",
+      "evidence": "SCIP partner contributions",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "competitor_of",
+      "target": "Global Foundries",
+      "evidence": "we face intense competition from well-established competitors such as Global Foundries",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "customer_of",
+      "target": "TSMC",
+      "evidence": "tiles manufactured by TSMC",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "supplier_of",
+      "target": "TSMC",
+      "evidence": "a key competitor on the foundry side of our business",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "customer_of",
+      "target": "Samsung",
+      "evidence": "there are few foundries capable of producing the leading-edge and near-leading-edge nodes needed for our products \u2013 currently only TSMC and Samsung",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Brookfield",
+      "evidence": "2022 joint investment with Brookfield in the manufacturing expansion of our Arizona campus",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Apollo",
+      "evidence": "2024 joint investment with Apollo related to Fab 34 in Ireland",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "SMIC",
+      "relation": "competitor_of",
+      "target": "Intel",
+      "evidence": "a number of semiconductor companies in China, including SMIC, are making significant investments... to enable such companies to develop products and technologies that compete with ours.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "ASML",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "ASML ... is currently the sole supplier of EUV lithography tools that we are deploying in our Intel 4, Intel 3, Intel 18A ...",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "TSMC",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "Some of our most advanced current and future products are ... exclusively manufactured by TSMC or reliant upon critical components ...",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Mobileye",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "$2.8\u202fbillion charge we recorded ... primarily related to Mobileye goodwill",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Positive Technologies",
+      "evidence": "we communicated with Positive Technologies regarding its IT security research and coordinated disclosure of security vulnerabilities identified by the firm",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "U.S. Government",
+      "evidence": "Includes $110 million of allocated proceeds to warrants from the U.S. Government Agreement we entered into in August 2025.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Altera",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "completed the divestiture of 51% of Altera. As of that date, Altera's results of operations are no longer included in our consolidated",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel Foundry",
+      "relation": "supplier_of",
+      "target": "Intel Products",
+      "evidence": "intersegment product and services revenue ... sold to Intel Products",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Ireland SCIP",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "Ireland SCIP has rights to factory output of an Intel owned wafer fabrication plant in Ireland (Fab 34) and rights to resell the factory output to us.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "supplier_of",
+      "target": "Ireland SCIP",
+      "evidence": "we are engaged as the Fab 34 operator in exchange for variable payments from Ireland SCIP based on the related factory output.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Ireland SCIP",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "distributions will be received from Ireland SCIP based on each investor's respective ownership of Ireland SCIP, of which Intel's is 51%.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Apollo",
+      "relation": "invests_in",
+      "target": "Ireland SCIP",
+      "evidence": "we closed a transaction with Apollo involving the sale of 49% of our interest in an Irish limited liability company (Ireland SCIP)",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Arizona SCIP",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "we will be required to purchase 100% of the wafer output",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "IMS",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "We continue to consolidate IMS results as a majority owned subsidiary",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "SoftBank Group",
+      "relation": "customer_of",
+      "target": "Intel",
+      "evidence": "we entered into an agreement to issue and sell 87 million shares of our common stock to SoftBank Group at $23.00 per share",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Department of Commerce",
+      "relation": "customer_of",
+      "target": "Intel",
+      "evidence": "we issued to the DOC the 275 million share Common Stock Issuance and Warrants to purchase up to 241 million shares",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "supplier_of",
+      "target": "NVIDIA",
+      "evidence": "we entered into an agreement to issue and sell 215 million shares of our common stock to NVIDIA at a price of $23.28 per share",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "U.S. Government",
+      "relation": "invests_in",
+      "target": "Intel",
+      "evidence": "U.S. Government Agreement ... Secure Enclave proceeds ... will not be subject to our grant accounting policy.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "SK Hynix",
+      "relation": "customer_of",
+      "target": "Intel",
+      "evidence": "We sold our NAND memory technology and manufacturing business to SK hynix",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "SLP",
+      "relation": "customer_of",
+      "target": "Intel",
+      "evidence": "outstanding receivable from SLP",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Mobileye",
+      "relation": "invests_in",
+      "target": "Mentee Robotics",
+      "evidence": "Mobileye entered into a definitive agreement to acquire Mentee Robotics",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Moovit",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "Mobileye includes goodwill balances for both the Mobileye and Moovit reporting units",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "NEX",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "integrate our NEX business into CCG and DCAI",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Apollo",
+      "relation": "partner_of",
+      "target": "Intel",
+      "evidence": "Our Ireland SCIP agreement with Apollo contains construction-related liquidated damage provisions",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Alphabet",
+      "evidence": "In June 2017, a Google research team notified Intel ... we worked together with other companies in the industry to verify the research and develop and validate software and firmware updates",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "depends_on",
+      "target": "VLSI",
+      "evidence": "Intel can advance the defense that it is licensed to VLSI's patents.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "depends_on",
+      "target": "Finjan",
+      "evidence": "whether Intel obtained a license to the asserted VLSI patent through Intel's license agreement with Finjan",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Finjan",
+      "relation": "subsidiary_of",
+      "target": "Fortress Investment Group",
+      "evidence": "Fortress Investment Group's acquisition of Finjan",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel (China)",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "Intel (China) Co., Ltd., Intel Trading (Shanghai) Co., Ltd., and Intel Products (Chengdu) Co., Ltd.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel Trading (Shanghai)",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "Intel (China) Co., Ltd., Intel Trading (Shanghai) Co., Ltd., and Intel Products (Chengdu) Co., Ltd.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel Products (Chengdu)",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "Intel (China) Co., Ltd., Intel Trading (Shanghai) Co., Ltd., and Intel Products (Chengdu) Co., Ltd.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "VLSI",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "Intel is licensed to VLSI's patents",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "IMS Nanofabrication GmbH",
+      "relation": "subsidiary_of",
+      "target": "Intel",
+      "evidence": "IMS Nanofabrication GmbH, a business within Intel Foundry",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Ernst & Young LLP",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "Our independent registered public accounting firm, Ernst & Young LLP, independently assessed the effectiveness of the company's internal control over financial reporting",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Altera",
+      "evidence": "Transaction Agreement ... by and among Intel Corporation, Intel Americas, Inc., Altera Corporation, and SLP VII Gryphon Aggregator, L.P.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "SLP VII Gryphon Aggregator, L.P.",
+      "evidence": "Transaction Agreement ... by and among Intel Corporation, Intel Americas, Inc., Altera Corporation, and SLP VII Gryphon Aggregator, L.P.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Wells Fargo",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "between Intel Corporation and Wells Fargo Bank, National Association, as successor trustee",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Computershare",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "between Intel Corporation and Computershare Trust Company, National Association (as successor to Wells Fargo Bank, National Association), as trustee",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Elavon",
+      "relation": "supplier_of",
+      "target": "Intel",
+      "evidence": "among Intel Corporation, Wells Fargo Bank, National Association, as successor trustee, and Elavon Financial Services DAC, UK Branch, as paying agent",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Intel",
+      "evidence": "Patent Cross License Agreement between NVIDIA Corporation and Intel Corporation, dated January 10, 2011",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "U.S. Department of Commerce",
+      "evidence": "Direct Funding Agreement between Intel Corporation and U.S. Department of Commerce dated November 25, 2024",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "U.S. Department of Commerce",
+      "relation": "invests_in",
+      "target": "Intel",
+      "evidence": "Warrant and Common Stock Agreement, dated August 22, 2025 by and between Intel Corporation and the United States Department of Commerce",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Intel Americas",
+      "evidence": "Form of Limited Partnership Agreement to be entered into by and among Intel Corporation, Intel Americas, Inc., Altera Corporation, and SLP VII Gryphon Aggregator, L.P.",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Arizona Fab HoldCo",
+      "evidence": "Purchase and Contribution Agreement, dated as of August 22, 2022, by and among Intel Corporation, Arizona Fab HoldCo Inc., Foundry JV Holdco LLC, and Arizona Fab LLC",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Foundry JV Holdco",
+      "evidence": "Purchase and Contribution Agreement, dated as of August 22, 2022, by and among Intel Corporation, Arizona Fab HoldCo Inc., Foundry JV Holdco LLC, and Arizona Fab LLC",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel",
+      "relation": "partner_of",
+      "target": "Arizona Fab",
+      "evidence": "Purchase and Contribution Agreement, dated as of August 22, 2022, by and among Intel Corporation, Arizona Fab HoldCo Inc., Foundry JV Holdco LLC, and Arizona Fab LLC",
+      "ticker": "INTC",
+      "section": "FULL"
+    },
+    {
+      "source": "Intel Ireland",
+      "relation": "partner_of",
+      "target": "Grange Newco",
+      "evidence": "Purchase and Sale Agreement, dated as of June 4, 2024, by and among Intel Ireland Limited, Grange Newco LLC, and AP Grange Holdings, LLC",
+      "ticker": "INTC",
+      "section": "FULL"
+    }
+  ]
+}

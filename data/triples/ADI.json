@@ -1,0 +1,48 @@
+{
+  "ticker": "ADI",
+  "company": "Analog Devices, Inc.",
+  "chunks_processed": 25,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Analog Devices",
+      "relation": "depends_on",
+      "target": "TSMC",
+      "evidence": "We currently source more than half of our wafer requirements annually from third-party wafer fabrication foundries, such as Taiwan Semiconductor Manufacturing Company (TSMC) and others",
+      "ticker": "ADI",
+      "section": "1"
+    },
+    {
+      "source": "Analog Devices",
+      "relation": "customer_of",
+      "target": "TSMC",
+      "evidence": "We currently source more than half of our wafer requirements annually from third-party wafer fabrication foundries, such as Taiwan Semiconductor Manufacturing Company (TSMC) and others",
+      "ticker": "ADI",
+      "section": "1"
+    },
+    {
+      "source": "TSMC",
+      "relation": "supplier_of",
+      "target": "Analog Devices",
+      "evidence": "We currently source more than half of our wafer requirements annually from third-party wafer foundries, including Taiwan Semiconductor Manufacturing Company (TSMC) and others.",
+      "ticker": "ADI",
+      "section": "1A"
+    },
+    {
+      "source": "Analog Devices",
+      "relation": "supplier_of",
+      "target": "United States government",
+      "evidence": "contracts with agencies of the United States government",
+      "ticker": "ADI",
+      "section": "1A"
+    },
+    {
+      "source": "Maxim Integrated",
+      "relation": "subsidiary_of",
+      "target": "Analog Devices",
+      "evidence": "an IRS income tax audit for Maxim Integrated Products, Inc.'s fiscal years",
+      "ticker": "ADI",
+      "section": "1A"
+    }
+  ]
+}

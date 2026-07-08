@@ -1,0 +1,40 @@
+{
+  "ticker": "AMAT",
+  "company": "Applied Materials, Inc.",
+  "chunks_processed": 26,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Applied Materials",
+      "relation": "customer_of",
+      "target": "SEMIC",
+      "evidence": "We work closely with our global customers and ecosystem partners",
+      "ticker": "AMAT",
+      "section": "1"
+    },
+    {
+      "source": "Applied Materials",
+      "relation": "customer_of",
+      "target": "SEMI",
+      "evidence": "We work closely with our global customers and ecosystem partners",
+      "ticker": "AMAT",
+      "section": "1"
+    },
+    {
+      "source": "Applied Materials",
+      "relation": "partner_of",
+      "target": "Responsible Business Alliance",
+      "evidence": "Our supply chain strategy commits to adhere to ethical labor practices, responsible minerals sourcing, Responsible Business Alliance and SEMI guidelines",
+      "ticker": "AMAT",
+      "section": "1"
+    },
+    {
+      "source": "Applied Materials",
+      "relation": "partner_of",
+      "target": "SEMI",
+      "evidence": "Our supply chain strategy commits to adhere to ethical labor practices, responsible minerals sourcing, Responsible Business Alliance and SEMI guidelines",
+      "ticker": "AMAT",
+      "section": "1"
+    }
+  ]
+}

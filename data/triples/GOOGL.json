@@ -1,0 +1,128 @@
+{
+  "ticker": "GOOGL",
+  "company": "Alphabet Inc.",
+  "chunks_processed": 30,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Alphabet",
+      "relation": "invests_in",
+      "target": "Waymo",
+      "evidence": "our fully autonomous driving technology company, Waymo",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "invests_in",
+      "target": "Isomorphic Labs",
+      "evidence": "Isomorphic Labs is reimagining the drug discovery process",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Meta",
+      "evidence": "",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Microsoft",
+      "evidence": "",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Amazon",
+      "evidence": "",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "IBM",
+      "evidence": "",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Oracle",
+      "evidence": "",
+      "ticker": "GOOGL",
+      "section": "1"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "DoubleClick",
+      "evidence": "unfairly excluded rivals",
+      "ticker": "GOOGL",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "AdMeld",
+      "evidence": "unfairly excluded rivals",
+      "ticker": "GOOGL",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "Texas",
+      "evidence": "led by the Texas Attorney General",
+      "ticker": "GOOGL",
+      "section": "1A"
+    },
+    {
+      "source": "Texas",
+      "relation": "competitor_of",
+      "target": "Alphabet",
+      "evidence": "led by the Texas Attorney General",
+      "ticker": "GOOGL",
+      "section": "1A"
+    },
+    {
+      "source": "US Department of Justice",
+      "relation": "competitor_of",
+      "target": "Alphabet",
+      "evidence": "filed a lawsuit concerning our Search",
+      "ticker": "GOOGL",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "competitor_of",
+      "target": "US Department of Justice",
+      "evidence": "filed a lawsuit concerning our Search",
+      "ticker": "GOOGL",
+      "section": "1A"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "invests_in",
+      "target": "Wiz",
+      "evidence": "acquire Wiz, Inc. for $32.0 billion",
+      "ticker": "GOOGL",
+      "section": "7"
+    },
+    {
+      "source": "Alphabet",
+      "relation": "invests_in",
+      "target": "Intersect",
+      "evidence": "acquire Intersect for $4.8 billion",
+      "ticker": "GOOGL",
+      "section": "7"
+    }
+  ]
+}

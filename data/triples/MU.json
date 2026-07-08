@@ -1,0 +1,152 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology, Inc.",
+  "chunks_processed": 38,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "client PC market",
+      "evidence": "products sold to the client PC market",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "client PC market",
+      "relation": "customer_of",
+      "target": "Micron Technology",
+      "evidence": "products sold to the client PC market",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "Samsung",
+      "evidence": "",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "SK Hynix",
+      "evidence": "",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "Kioxia",
+      "evidence": "",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "Sandisk",
+      "evidence": "",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "ChangXin Memory Technologies",
+      "evidence": "",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "Yangtze Memory Technologies",
+      "evidence": "",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "competitor_of",
+      "target": "CXMT",
+      "evidence": "significant investment in the semiconductor industry, including by the Chinese government and various state-owned or affiliated entities, such as CXMT and YMTC",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "competitor_of",
+      "target": "YMTC",
+      "evidence": "significant investment in the semiconductor industry, including by the Chinese government and various state-owned or affiliated entities, such as CXMT and YMTC",
+      "ticker": "MU",
+      "section": "1"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "competitor_of",
+      "target": "Samsung",
+      "evidence": "We face intense competition ... from a number of companies, including Samsung Electronics Co., Ltd.;",
+      "ticker": "MU",
+      "section": "1A"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "competitor_of",
+      "target": "SK Hynix",
+      "evidence": "We face intense competition ... from a number of companies, including ... SK hynix Inc.;",
+      "ticker": "MU",
+      "section": "1A"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "competitor_of",
+      "target": "Kioxia",
+      "evidence": "We face intense competition ... from a number of companies, including ... Kioxia Holdings Corporation;",
+      "ticker": "MU",
+      "section": "1A"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "competitor_of",
+      "target": "SanDisk",
+      "evidence": "We face intense competition ... from a number of companies, including ... Sandisk Corporation;",
+      "ticker": "MU",
+      "section": "1A"
+    },
+    {
+      "source": "United States Department of Commerce",
+      "relation": "invests_in",
+      "target": "Micron Technology",
+      "evidence": "we entered into direct funding agreements ... with the United States Department of Commerce (the \"Department\") under the Department's CHIPS Incentives Program",
+      "ticker": "MU",
+      "section": "1A"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "depends_on",
+      "target": "United States Department of Commerce",
+      "evidence": "we entered into direct funding agreements ... with the United States Department of Commerce",
+      "ticker": "MU",
+      "section": "1A"
+    },
+    {
+      "source": "U.S. Department of Commerce",
+      "relation": "invests_in",
+      "target": "Micron Technology",
+      "evidence": "On December 9, 2024, we entered into direct funding agreements with the U.S. Department of Commerce for up to $6.1 billion...",
+      "ticker": "MU",
+      "section": "7"
+    },
+    {
+      "source": "State of New York",
+      "relation": "invests_in",
+      "target": "Micron Technology",
+      "evidence": "we have signed a non-binding term sheet with the State of New York that provides for up to $5.5 billion in funding...",
+      "ticker": "MU",
+      "section": "7"
+    }
+  ]
+}

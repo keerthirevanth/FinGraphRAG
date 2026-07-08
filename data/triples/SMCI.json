@@ -1,0 +1,272 @@
+{
+  "ticker": "SMCI",
+  "company": "Super Micro Computer, Inc.",
+  "chunks_processed": 39,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Super Micro Computer",
+      "relation": "partner_of",
+      "target": "NVIDIA",
+      "evidence": "products compatible with NVIDIA's Hopper (H100/H200) and Blackwell (GB200/B200/RTX Pro 6000) generation platforms",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "partner_of",
+      "target": "Intel",
+      "evidence": "We introduced new products supporting Intel Xeon 6900 Series processors and Intel Xeon 6 data center CPUs",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "partner_of",
+      "target": "AMD",
+      "evidence": "We introduced new products supporting AMD EPYC 9005 Series CPUs and AMD Instinct MI350/355 Series GPUs",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "customer_of",
+      "target": "Ablecom Technology",
+      "evidence": "We use Ablecom Technology, Inc. (\"Ablecom\") and its affiliate Compuware Technology, Inc. (\"Compuware\"), both of which are related parties, for contract design and manufacturing coordination support.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "customer_of",
+      "target": "Compuware Technology",
+      "evidence": "We use Ablecom Technology, Inc. (\"Ablecom\") and its affiliate Compuware Technology, Inc. (\"Compuware\"), both of which are related parties, for contract design and manufacturing coordination support.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Ablecom Technology",
+      "relation": "supplier_of",
+      "target": "Super Micro Computer",
+      "evidence": "Ablecom warehouses multiple components and subassemblies manufactured by various suppliers before shipping them to our facilities in the United States, Europe, and Asia.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Compuware Technology",
+      "relation": "supplier_of",
+      "target": "Super Micro Computer",
+      "evidence": "We have a series of agreements with Compuware, including multiple product development, production and service agreements, as well as product manufacturing agreements and lease agreements for office space.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "Cisco Systems",
+      "evidence": "We believe our principal competitors include: global technology vendors, such as Cisco, Dell, Hewlett-Packard Enterprise, and Lenovo;",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "Dell Technologies",
+      "evidence": "We believe our principal competitors include: global technology vendors, such as Cisco, Dell, Hewlett-Packard Enterprise, and Lenovo;",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "HPE",
+      "evidence": "We believe our principal competitors include: global technology vendors, such as Cisco, Dell, Hewlett-Packard Enterprise, and Lenovo;",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "Lenovo",
+      "evidence": "We believe our principal competitors include: global technology vendors, such as Cisco, Dell, Hewlett-Packard Enterprise, and Lenovo;",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "Hon Hai (Foxconn)",
+      "evidence": "We believe our principal competitors include: ODMs, such as Foxconn, Quanta Computer, and Wiwynn Corporation.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "Quanta Computer",
+      "evidence": "We believe our principal competitors include: ODMs, such as Foxconn, Quanta Computer, and Wiwynn Corporation.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "competitor_of",
+      "target": "Wiwynn",
+      "evidence": "We believe our principal competitors include: ODMs, such as Foxconn, Quanta Computer, and Wiwynn Corporation.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "NVIDIA",
+      "evidence": "These restrictions impacted certain of our products, including products that contain the NVIDIA A100 and H100 integrated circuits, among others.",
+      "ticker": "SMCI",
+      "section": "1"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "Ablecom",
+      "evidence": "reliance on Ablecom",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "Compuware",
+      "evidence": "reliance on Compuware",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "supplier_of",
+      "target": "NVIDIA",
+      "evidence": "GPUs have represented an increasing portion of our cost of sales.",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "customer_of",
+      "target": "NVIDIA",
+      "evidence": "GPUs have represented an increasing portion of our cost of sales.",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "customer_of",
+      "target": "Ablecom",
+      "evidence": "We use Ablecom for contract design and manufacturing coordination support and warehousing",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "customer_of",
+      "target": "Compuware",
+      "evidence": "We outsource to Compuware a portion of our design activities and a significant part of our manufacturing of subassemblies",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Ablecom",
+      "relation": "supplier_of",
+      "target": "Super Micro Computer",
+      "evidence": "Our purchases of products from Ablecom represented 3.3%, 4.3%, and 6.6% of our cost of sales for fiscal years 2025, 2024, and 2023, respectively",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Compuware",
+      "relation": "supplier_of",
+      "target": "Super Micro Computer",
+      "evidence": "Our purchases of products from Compuware represented 3.3%, 4.3%, and 6.6% of our cost of sales for fiscal years 2025, 2024, and 2023, respectively",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "partner_of",
+      "target": "Compuware",
+      "evidence": "We have appointed Compuware as a nonexclusive authorized distributor of our products in Taiwan, China and Australia",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Ablecom",
+      "relation": "invests_in",
+      "target": "Leadtek",
+      "evidence": "Ablecom and Compuware acquired an approximate 30% interest in Leadtek",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Compuware",
+      "relation": "invests_in",
+      "target": "Leadtek",
+      "evidence": "Ablecom and Compuware acquired an approximate 30% interest in Leadtek",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "partner_of",
+      "target": "Ablecom",
+      "evidence": "We operate a joint management company with Ablecom to manage the common areas shared by us and Ablecom for our separately constructed manufacturing facilities in Taiwan.",
+      "ticker": "SMCI",
+      "section": "1A"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "Intel",
+      "evidence": "we closely monitor the product introduction cycles of industry leaders, including Intel Corporation",
+      "ticker": "SMCI",
+      "section": "7"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "AMD",
+      "evidence": "we closely monitor the product introduction cycles of industry leaders, including Advanced Micro Devices, Inc.",
+      "ticker": "SMCI",
+      "section": "7"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "Broadcom",
+      "evidence": "we closely monitor the product introduction cycles of industry leaders, including Broadcom Inc.",
+      "ticker": "SMCI",
+      "section": "7"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "Samsung",
+      "evidence": "we closely monitor the product introduction cycles of industry leaders, including Samsung Electronics Company Limited",
+      "ticker": "SMCI",
+      "section": "7"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "depends_on",
+      "target": "Micron Technology",
+      "evidence": "we closely monitor the product introduction cycles of industry leaders, including Micron Technology, Inc.",
+      "ticker": "SMCI",
+      "section": "7"
+    },
+    {
+      "source": "Super Micro Computer",
+      "relation": "invests_in",
+      "target": "Corporate Venture",
+      "evidence": "30% ownership in the Corporate Venture",
+      "ticker": "SMCI",
+      "section": "7"
+    }
+  ]
+}

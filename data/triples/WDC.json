@@ -1,0 +1,64 @@
+{
+  "ticker": "WDC",
+  "company": "Western Digital Corporation",
+  "chunks_processed": 32,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Western Digital",
+      "relation": "competitor_of",
+      "target": "Seagate Technology",
+      "evidence": "Our competitors include HDD competitors such as Seagate Technology Holdings plc",
+      "ticker": "WDC",
+      "section": "1"
+    },
+    {
+      "source": "Western Digital",
+      "relation": "competitor_of",
+      "target": "Toshiba",
+      "evidence": "Our competitors include HDD competitors such as Toshiba Electronic Devices & Storage Corporation",
+      "ticker": "WDC",
+      "section": "1"
+    },
+    {
+      "source": "Western Digital",
+      "relation": "supplier_of",
+      "target": "Sandisk",
+      "evidence": "our former Flash business",
+      "ticker": "WDC",
+      "section": "1A"
+    },
+    {
+      "source": "Western Digital",
+      "relation": "invests_in",
+      "target": "Sandisk",
+      "evidence": "We retained an equity interest in Sandisk in connection with the Separation, of which we divested a portion in June 2025 in a debt-for-equity exchange.",
+      "ticker": "WDC",
+      "section": "1A"
+    },
+    {
+      "source": "Western Digital",
+      "relation": "partner_of",
+      "target": "Sandisk",
+      "evidence": "we and Sandisk entered into various agreements to effect the Separation and provide for the temporary framework of the relationship between us and Sandisk following the Separation",
+      "ticker": "WDC",
+      "section": "1A"
+    },
+    {
+      "source": "Western Digital",
+      "relation": "depends_on",
+      "target": "Sandisk",
+      "evidence": "$2.00 billion of proceeds from drawing on the Sandisk credit facilities",
+      "ticker": "WDC",
+      "section": "7"
+    },
+    {
+      "source": "Western Digital",
+      "relation": "subsidiary_of",
+      "target": "Western Digital Technologies",
+      "evidence": "our 100% owned domestic subsidiary, Western Digital Technologies, Inc. (\"Guarantor\")",
+      "ticker": "WDC",
+      "section": "7"
+    }
+  ]
+}

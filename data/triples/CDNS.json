@@ -1,0 +1,296 @@
+{
+  "ticker": "CDNS",
+  "company": "Cadence Design Systems, Inc.",
+  "chunks_processed": 46,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Cadence Design Systems",
+      "relation": "supplier_of",
+      "target": "Jasper Formal Verification Platform",
+      "evidence": "We offer two software solutions for functional verification: the Jasper Formal Verification Platform",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "supplier_of",
+      "target": "Palladium Enterprise Emulation Platform",
+      "evidence": "Our Palladium Enterprise Emulation Platform and Protium field programmable gate arrays (\"FPGA\")-Based Prototyping Platforms",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "supplier_of",
+      "target": "Verisium generative AI solution",
+      "evidence": "Additionally, our Verisium generative AI solution enhances productivity, automation, and quality across the entire verification flow",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "supplier_of",
+      "target": "DSPs",
+      "evidence": "Our offerings include controllers and physical interfaces widely used in computing, networking, and embedded systems. The portfolio spans ... multiple memory interfaces ... and other industry standards. Additionally, our Tensilica configurable digital signal processors (\"DSPs\")",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "supplier_of",
+      "target": "Verification IP (\"VIP\") portfolio",
+      "evidence": "Complementing these offerings, our Verification IP (\"VIP\") portfolio enables system-level validation and integrates seamlessly with our Xcelium simulator and Palladium Enterprise Emulation solutions",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "customer_of",
+      "target": "VLAB Works",
+      "evidence": "With our acquisition of VLAB Works in fiscal 2025, we expanded our automotive electronic software and hardware development capabilities",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "customer_of",
+      "target": "Arm",
+      "evidence": "In fiscal 2025, we expanded our design IP portfolio with the acquisition of the Arm Artisan foundation IP business",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "customer_of",
+      "target": "Secure-IC",
+      "evidence": "Also in fiscal 2025, we strengthened our embedded security capabilities with the acquisition of Secure-IC",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "partner_of",
+      "target": "NVIDIA",
+      "evidence": "co-developed with NVIDIA to dramatically speed up complex simulations",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "invests_in",
+      "target": "Hexagon Smart Solutions AB",
+      "evidence": "announced our intent to acquire the Design & Engineering (\"D&E\") business of Hexagon Smart Solutions AB",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "customer_of",
+      "target": "Hexagon Smart Solutions AB",
+      "evidence": "serve a broader customer base, including leading aerospace and defense and automotive OEMs and Tier 1 suppliers",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "partner_of",
+      "target": "Silicon Integration Initiative",
+      "evidence": "We support the use of third-party design products and design IP through our participation in industry groups such as the Silicon Integration Initiative",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "partner_of",
+      "target": "Accellera System Initiative",
+      "evidence": "We support the use of third-party design products and design IP through our participation in industry groups such as the Accellera System Initiative",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Synopsys",
+      "evidence": "Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Ansys",
+      "evidence": "Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Siemens EDA",
+      "evidence": "Key competitors include Synopsys, Inc., Ansys, Inc. (acquired by Synopsys), Siemens EDA",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Keysight",
+      "evidence": "U.S.-based competitors include Keysight Technologies, Inc., Schr\u00f6dinger, Inc., and CEVA, Inc.",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Schr\u00f6dinger",
+      "evidence": "U.S.-based competitors include Keysight Technologies, Inc., Schr\u00f6dinger, Inc., and CEVA, Inc.",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "CEVA",
+      "evidence": "U.S.-based competitors include Keysight Technologies, Inc., Schr\u00f6dinger, Inc., and CEVA, Inc.",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Altium",
+      "evidence": "international competitors include Altium Limited (acquired by Renesas Electronics Corporation) and Zuken, Inc. (Japan)",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Zuken",
+      "evidence": "international competitors include Altium Limited (acquired by Renesas Electronics Corporation) and Zuken, Inc. (Japan)",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Huada Empyrean",
+      "evidence": "emerging players in China such as Huada Empyrean, Xpeedic Technology, X-EPIC, Primarius Technologies, Univista, and Giga Design Automation",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Xpeedic Technology",
+      "evidence": "emerging players in China such as Huada Empyrean, Xpeedic Technology, X-EPIC, Primarius Technologies, Univista, and Giga Design Automation",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "X-EPIC",
+      "evidence": "emerging players in China such as Huada Empyrean, Xpeedic Technology, X-EPIC, Primarius Technologies, Univista, and Giga Design Automation",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Primarius Technologies",
+      "evidence": "emerging players in China such as Huada Empyrean, Xpeedic Technology, X-EPIC, Primarius Technologies, Univista, and Giga Design Automation",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Univista",
+      "evidence": "emerging players in China such as Huada Empyrean, Xpeedic Technology, X-EPIC, Primarius Technologies, Univista, and Giga Design Automation",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "competitor_of",
+      "target": "Giga Design Automation",
+      "evidence": "emerging players in China such as Huada Empyrean, Xpeedic Technology, X-EPIC, Primarius Technologies, Univista, and Giga Design Automation",
+      "ticker": "CDNS",
+      "section": "1"
+    },
+    {
+      "source": "BETA CAE Systems International",
+      "relation": "subsidiary_of",
+      "target": "Cadence",
+      "evidence": "we completed our acquisition of BETA CAE Systems International AG",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "VLAB Works",
+      "relation": "subsidiary_of",
+      "target": "Cadence",
+      "evidence": "we completed our acquisition of a holding company containing the VLAB Works business",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Artisan foundation IP",
+      "relation": "subsidiary_of",
+      "target": "Cadence",
+      "evidence": "our acquisition of the Artisan foundation IP business from Arm Limited",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Secure-IC",
+      "relation": "subsidiary_of",
+      "target": "Cadence",
+      "evidence": "our acquisition of Secure-IC",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "customer_of",
+      "target": "Bank of America, N.A.",
+      "evidence": "entered into a five-year senior unsecured revolving credit facility with a group of lenders led by Bank of America, N.A.",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "partner_of",
+      "target": "Hexagon",
+      "evidence": "entered into a definitive agreement with Hexagon to acquire Hexagon's D&E business",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "invests_in",
+      "target": "Arm",
+      "evidence": "During fiscal 2025, we acquired intangible assets... from Arm",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "invests_in",
+      "target": "Secure-IC",
+      "evidence": "During fiscal 2025, we acquired intangible assets... from Secure-IC",
+      "ticker": "CDNS",
+      "section": "7"
+    },
+    {
+      "source": "Cadence Design Systems",
+      "relation": "invests_in",
+      "target": "VLAB Works",
+      "evidence": "During fiscal 2025, we acquired intangible assets... from VLAB Works",
+      "ticker": "CDNS",
+      "section": "7"
+    }
+  ]
+}

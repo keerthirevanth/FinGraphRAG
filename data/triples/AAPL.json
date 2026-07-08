@@ -1,0 +1,56 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "chunks_processed": 20,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "Android",
+      "evidence": "compared to competitors' platforms, such as Android",
+      "ticker": "AAPL",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "Windows",
+      "evidence": "compared to competitors' platforms, such as Windows",
+      "ticker": "AAPL",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "PlayStation",
+      "evidence": "compared to competitors' platforms, such as PlayStation",
+      "ticker": "AAPL",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "Nintendo",
+      "evidence": "compared to competitors' platforms, such as Nintendo",
+      "ticker": "AAPL",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "Xbox",
+      "evidence": "compared to competitors' platforms, such as Xbox",
+      "ticker": "AAPL",
+      "section": "1A"
+    },
+    {
+      "source": "Apple",
+      "relation": "customer_of",
+      "target": "Alphabet",
+      "evidence": "revenue from licensing arrangements with Google LLC",
+      "ticker": "AAPL",
+      "section": "1A"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA Corporation",
+  "chunks_processed": 37,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "automotive OEMs",
+      "evidence": "partnerships across the transportation industry including with automotive OEMs",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "TSMC",
+      "evidence": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "Samsung",
+      "evidence": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "SK Hynix",
+      "evidence": "We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "Micron Technology",
+      "evidence": "We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "Samsung",
+      "evidence": "We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Hon Hai (Foxconn)",
+      "evidence": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Wistron",
+      "evidence": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Fabrinet",
+      "evidence": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "AMD",
+      "evidence": "Our current competitors include: suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Huawei",
+      "evidence": "Our current competitors include: suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, and I",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Intel",
+      "evidence": "Our current competitors include: suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, and I",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Alibaba Group",
+      "evidence": "large cloud services companies with internal teams designing hardware and software that incorporate accelerated or AI computing functionality as part of their internal solutions or platforms, such as Alibaba Group",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Alphabet",
+      "evidence": "large cloud services companies with internal teams designing hardware and software that incorporate accelerated or AI computing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsoft Corporatio",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Amazon",
+      "evidence": "large cloud services companies with internal teams designing hardware and software that incorporate accelerated or AI computing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsoft Corporatio",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Baidu",
+      "evidence": "large cloud services companies with internal teams designing hardware and software that incorporate accelerated or AI computing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsoft Corporatio",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Microsoft",
+      "evidence": "large cloud services companies with internal teams designing hardware and software that incorporate accelerated or AI computing functionality as part of their internal solutions or platforms, such as Alibaba Group, Alphabet Inc., Amazon, Inc., or Amazon, Baidu, Inc., Huawei, and Microsoft Corporatio",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Ambarella",
+      "evidence": "suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Renesas",
+      "evidence": "suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Samsung",
+      "evidence": "suppliers of hardware and software for SoC products that are used in servers or embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom, Intel, Qualcomm Incorporated, Renesas Electronics Corporation, and Samsung",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Tesla",
+      "evidence": "companies with internal teams designing SoC products for their own products and services, such as Tesla, Inc.",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Arista Networks",
+      "evidence": "networking products consisting of switches, network adapters (including DPUs), and cable solutions (including optical modules) include such as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel, Lumentum Holdings Inc., and Marvell Technology, Inc",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "Cisco Systems",
+      "evidence": "networking products consisting of switches, network adapters (including DPUs), and cable solutions (including optical modules) include such as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel, Lumentum Holdings Inc., and Marvell Technology, Inc",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "competitor_of",
+      "target": "HPE",
+      "evidence": "networking products consisting of switches, network adapters (including DPUs), and cable solutions (including optical modules) include such as AMD, Arista Networks, Broadcom, Cisco Systems, Inc., Hewlett Packard Enterprise Company, Huawei, Intel, Lumentum Holdings Inc., and Marvell Technology, Inc",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "USG",
+      "evidence": "the USG granted licenses that would allow us to ship certain H20 products to certain China-based customers",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "USG",
+      "relation": "supplier_of",
+      "target": "NVIDIA",
+      "evidence": "the USG granted licenses that would allow us to ship certain H20 products to certain China-based customers",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "USG",
+      "evidence": "we incurred a $4.5 billion charge in the first quarter of fiscal year 2026 associated with H20 for excess inventory and purchase obligations",
+      "ticker": "NVDA",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Microsoft",
+      "evidence": "our agreement with Microsoft",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "Groq",
+      "evidence": "We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments.",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "GFN",
+      "evidence": "we hold proprietary game source code from third-party partners in our GFN service",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "invests_in",
+      "target": "OpenAI",
+      "evidence": "We are finalizing an investment and partnership agreement with OpenAI.",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "French Competition Authority",
+      "evidence": "the French Competition Authority collected information from us",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "European Union regulators",
+      "evidence": "received, and continue to receive, broad requests for information from competition regulators in the European Union",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "US regulators",
+      "evidence": "received, and continue to receive, broad requests for information from competition regulators in the United States",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "UK regulators",
+      "evidence": "received, and continue to receive, broad requests for information from competition regulators in the United Kingdom",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "Chinese regulators",
+      "evidence": "received, and continue to receive, broad requests for information from competition regulators in China",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "customer_of",
+      "target": "South Korean regulators",
+      "evidence": "received, and continue to receive, broad requests for information from competition regulators in South Korea",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "Mellanox",
+      "evidence": "our fulfillment of the commitments we entered at the close of our Mellanox acquisition",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "DeepSeek",
+      "evidence": "applications built on foundation models originating in China such as DeepSeek",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "Qwen",
+      "evidence": "applications built on foundation models originating in China such as ... Qwen",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "KIMMI",
+      "evidence": "applications built on foundation models originating in China such as ... KIMMI",
+      "ticker": "NVDA",
+      "section": "1A"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "invests_in",
+      "target": "AI model makers",
+      "evidence": "We invested $17.5 billion in private companies and infrastructure funds, primarily to support early\u2010stage startups. These investments include AI model makers that purchase our products directly or through CSPs.",
+      "ticker": "NVDA",
+      "section": "7"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "depends_on",
+      "target": "USG",
+      "evidence": "In April 2025, the USG informed us that a license is required for exports of our H20 product into the China market.",
+      "ticker": "NVDA",
+      "section": "7"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "supplier_of",
+      "target": "AI model makers",
+      "evidence": "We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators.",
+      "ticker": "NVDA",
+      "section": "7"
+    },
+    {
+      "source": "Neocloud builders",
+      "relation": "customer_of",
+      "target": "NVIDIA",
+      "evidence": "Indirect customers include CSPs, Neocloud builders, AI model makers, enterprises, and public sector entities.",
+      "ticker": "NVDA",
+      "section": "7"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "invests_in",
+      "target": "Intel",
+      "evidence": "gains from our previously announced investment in Intel's common stock",
+      "ticker": "NVDA",
+      "section": "7"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "partner_of",
+      "target": "OpenAI",
+      "evidence": "we are finalizing an investment and partnership agreement with OpenAI",
+      "ticker": "NVDA",
+      "section": "7"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "ticker": "STX",
+  "company": "Seagate Technology Holdings plc",
+  "chunks_processed": 36,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Microsoft",
+      "evidence": "partnering with leading brands such as Microsoft's Xbox",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Sony",
+      "evidence": "partnering with leading brands such as Sony's PlayStation",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Kioxia",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Micron Technology",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Samsung",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Sandisk",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "SK Hynix",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Toshiba",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "Western Digital",
+      "evidence": "",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "Kioxia",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: Kioxia Holdings Corporation;",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "Micron Technology",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: Micron Technology, Inc.;",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "Samsung",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: Samsung Electronics;",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "Sandisk",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: Sandisk Corporation;",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "SK Hynix",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: SK hynix, Inc.;",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "Toshiba",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: Toshiba Corporation; and",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "competitor_of",
+      "target": "Western Digital",
+      "evidence": "We compete with manufacturers of storage solutions and the other principal manufacturers in the data storage solution industry including: Western Digital Corporation.",
+      "ticker": "STX",
+      "section": "1"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "supplier_of",
+      "target": "China",
+      "evidence": "Many of these rare earth elements are sourced from China",
+      "ticker": "STX",
+      "section": "1A"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "depends_on",
+      "target": "China",
+      "evidence": "recent or potential future export restrictions or bans by the Chinese government",
+      "ticker": "STX",
+      "section": "1A"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "customer_of",
+      "target": "Huawei",
+      "evidence": "our sales of hard disk drives to Huawei",
+      "ticker": "STX",
+      "section": "1A"
+    },
+    {
+      "source": "Seagate Technology",
+      "relation": "depends_on",
+      "target": "Lyve",
+      "evidence": "we store subscribers' data on Lyve, our edge-to-cloud mass storage platform.",
+      "ticker": "STX",
+      "section": "1A"
+    },
+    {
+      "source": "Intevac",
+      "relation": "supplier_of",
+      "target": "Seagate Technology",
+      "evidence": "we acquired Intevac, Inc. (\"Intevac\"), a supplier of thin-film processing systems, for a net cash outlay of $47 million.",
+      "ticker": "STX",
+      "section": "7"
+    }
+  ]
+}

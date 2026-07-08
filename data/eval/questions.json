@@ -1,0 +1,1242 @@
+[
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of Cisco Systems?",
+    "answer_entities": [
+      "CrowdStrike",
+      "Datadog",
+      "Dell Technologies",
+      "Dynatrace",
+      "Fortinet",
+      "HPE",
+      "Huawei",
+      "Marvell Technology",
+      "Microsoft",
+      "NVIDIA",
+      "New Relic",
+      "Nokia",
+      "Oracle",
+      "Palo Alto Networks",
+      "RingCentral",
+      "Super Micro Computer",
+      "Zoom Video Communications",
+      "Zscaler"
+    ],
+    "reference_answer": "According to the filings, the competitors of Cisco Systems include: CrowdStrike, Datadog, Dell Technologies, Dynatrace, Fortinet, HPE, Huawei, Marvell Technology, Microsoft, NVIDIA, New Relic, Nokia, Oracle, Palo Alto Networks, RingCentral, Super Micro Computer, Zoom Video Communications, Zscaler.",
+    "meta": {
+      "focus": "Cisco Systems",
+      "relation": "competitor_of"
+    },
+    "id": "q000"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies has Arista Networks partnered with?",
+    "answer_entities": [
+      "Broadcom",
+      "Foxconn Hon Hai",
+      "Jabil",
+      "Sanmina"
+    ],
+    "reference_answer": "According to the filings, the partners of Arista Networks include: Broadcom, Foxconn Hon Hai, Jabil, Sanmina.",
+    "meta": {
+      "focus": "Arista Networks",
+      "relation": "partner_of"
+    },
+    "id": "q001"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to NVIDIA?",
+    "answer_entities": [
+      "HPE",
+      "Intel",
+      "Micron Technology",
+      "SK Hynix",
+      "Samsung",
+      "Super Micro Computer",
+      "U.S. government"
+    ],
+    "reference_answer": "According to the filings, the suppliers of NVIDIA include: HPE, Intel, Micron Technology, SK Hynix, Samsung, Super Micro Computer, U.S. government.",
+    "meta": {
+      "focus": "NVIDIA",
+      "relation": "supplier_of"
+    },
+    "id": "q002"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Dell Technologies supply?",
+    "answer_entities": [
+      "Bread Financial",
+      "Broadcom",
+      "Secureworks",
+      "VMware"
+    ],
+    "reference_answer": "According to the filings, the customers of Dell Technologies include: Bread Financial, Broadcom, Secureworks, VMware.",
+    "meta": {
+      "focus": "Dell Technologies",
+      "relation": "supplier_of"
+    },
+    "id": "q003"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Amazon supply?",
+    "answer_entities": [
+      "Cisco Systems",
+      "HPE",
+      "Palantir Technologies",
+      "Snowflake"
+    ],
+    "reference_answer": "According to the filings, the customers of Amazon include: Cisco Systems, HPE, Palantir Technologies, Snowflake.",
+    "meta": {
+      "focus": "Amazon",
+      "relation": "supplier_of"
+    },
+    "id": "q004"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of AMD?",
+    "answer_entities": [
+      "Analog Devices",
+      "Broadcom",
+      "Intel",
+      "Lattice Semiconductor",
+      "Marvell Technology",
+      "Microsemi",
+      "NVIDIA",
+      "NXP Semiconductors",
+      "Qualcomm",
+      "Texas Instruments"
+    ],
+    "reference_answer": "According to the filings, the competitors of AMD include: Analog Devices, Broadcom, Intel, Lattice Semiconductor, Marvell Technology, Microsemi, NVIDIA, NXP Semiconductors, Qualcomm, Texas Instruments.",
+    "meta": {
+      "focus": "AMD",
+      "relation": "competitor_of"
+    },
+    "id": "q005"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to Snowflake?",
+    "answer_entities": [
+      "Amazon",
+      "Forbes Global 2000",
+      "GCP",
+      "Microsoft"
+    ],
+    "reference_answer": "According to the filings, the suppliers of Snowflake include: Amazon, Forbes Global 2000, GCP, Microsoft.",
+    "meta": {
+      "focus": "Snowflake",
+      "relation": "supplier_of"
+    },
+    "id": "q006"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Marvell Technology supply?",
+    "answer_entities": [
+      "AI data centers",
+      "China",
+      "HDD makers",
+      "Infineon",
+      "Taiwan"
+    ],
+    "reference_answer": "According to the filings, the customers of Marvell Technology include: AI data centers, China, HDD makers, Infineon, Taiwan.",
+    "meta": {
+      "focus": "Marvell Technology",
+      "relation": "supplier_of"
+    },
+    "id": "q007"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of NXP Semiconductors?",
+    "answer_entities": [
+      "ON Semiconductor",
+      "Qualcomm",
+      "Renesas",
+      "STMicroelectronics",
+      "Texas Instruments"
+    ],
+    "reference_answer": "According to the filings, the competitors of NXP Semiconductors include: ON Semiconductor, Qualcomm, Renesas, STMicroelectronics, Texas Instruments.",
+    "meta": {
+      "focus": "NXP Semiconductors",
+      "relation": "competitor_of"
+    },
+    "id": "q008"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of Microsoft?",
+    "answer_entities": [
+      "NVIDIA",
+      "Oracle",
+      "Snowflake"
+    ],
+    "reference_answer": "According to the filings, the competitors of Microsoft include: NVIDIA, Oracle, Snowflake.",
+    "meta": {
+      "focus": "Microsoft",
+      "relation": "competitor_of"
+    },
+    "id": "q009"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Seagate Technology supply?",
+    "answer_entities": [
+      "Broadcom",
+      "China",
+      "Kioxia",
+      "Micron Technology",
+      "Microsoft",
+      "SK Hynix",
+      "Samsung",
+      "Sandisk",
+      "Sony",
+      "Toshiba",
+      "Western Digital"
+    ],
+    "reference_answer": "According to the filings, the customers of Seagate Technology include: Broadcom, China, Kioxia, Micron Technology, Microsoft, SK Hynix, Samsung, Sandisk, Sony, Toshiba, Western Digital.",
+    "meta": {
+      "focus": "Seagate Technology",
+      "relation": "supplier_of"
+    },
+    "id": "q010"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to HPE?",
+    "answer_entities": [
+      "AMD",
+      "Amazon",
+      "Broadcom",
+      "HP",
+      "Intel",
+      "NVIDIA",
+      "United States Department of Justice"
+    ],
+    "reference_answer": "According to the filings, the suppliers of HPE include: AMD, Amazon, Broadcom, HP, Intel, NVIDIA, United States Department of Justice.",
+    "meta": {
+      "focus": "HPE",
+      "relation": "supplier_of"
+    },
+    "id": "q011"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of Micron Technology?",
+    "answer_entities": [
+      "SK Hynix",
+      "Samsung",
+      "Sandisk",
+      "Seagate Technology",
+      "YMTC"
+    ],
+    "reference_answer": "According to the filings, the competitors of Micron Technology include: SK Hynix, Samsung, Sandisk, Seagate Technology, YMTC.",
+    "meta": {
+      "focus": "Micron Technology",
+      "relation": "competitor_of"
+    },
+    "id": "q012"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does HPE supply?",
+    "answer_entities": [
+      "Fitch Ratings Services",
+      "HP",
+      "Moody's Investors Service",
+      "NVIDIA",
+      "Standard & Poor's Ratings Services",
+      "UNIS"
+    ],
+    "reference_answer": "According to the filings, the customers of HPE include: Fitch Ratings Services, HP, Moody's Investors Service, NVIDIA, Standard & Poor's Ratings Services, UNIS.",
+    "meta": {
+      "focus": "HPE",
+      "relation": "supplier_of"
+    },
+    "id": "q013"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to Qualcomm?",
+    "answer_entities": [
+      "Advanced Semiconductor Engineering",
+      "Amkor Technology",
+      "Global Foundries",
+      "STATSChipPAC",
+      "Samsung",
+      "Siliconware Precision Industries",
+      "TSMC"
+    ],
+    "reference_answer": "According to the filings, the suppliers of Qualcomm include: Advanced Semiconductor Engineering, Amkor Technology, Global Foundries, STATSChipPAC, Samsung, Siliconware Precision Industries, TSMC.",
+    "meta": {
+      "focus": "Qualcomm",
+      "relation": "supplier_of"
+    },
+    "id": "q014"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to Dell Technologies?",
+    "answer_entities": [
+      "JPMorgan Chase Bank, N.A.",
+      "Microsoft",
+      "Satmetrix Systems",
+      "VMware"
+    ],
+    "reference_answer": "According to the filings, the suppliers of Dell Technologies include: JPMorgan Chase Bank, N.A., Microsoft, Satmetrix Systems, VMware.",
+    "meta": {
+      "focus": "Dell Technologies",
+      "relation": "supplier_of"
+    },
+    "id": "q015"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to Intel?",
+    "answer_entities": [
+      "ASML",
+      "Arizona SCIP",
+      "Computershare",
+      "Elavon",
+      "Ernst & Young LLP",
+      "Ireland SCIP",
+      "Samsung",
+      "TSMC",
+      "VLSI",
+      "Wells Fargo"
+    ],
+    "reference_answer": "According to the filings, the suppliers of Intel include: ASML, Arizona SCIP, Computershare, Elavon, Ernst & Young LLP, Ireland SCIP, Samsung, TSMC, VLSI, Wells Fargo.",
+    "meta": {
+      "focus": "Intel",
+      "relation": "supplier_of"
+    },
+    "id": "q016"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to NXP Semiconductors?",
+    "answer_entities": [
+      "Arrow",
+      "Avnet",
+      "Nexty",
+      "WT Micro",
+      "World Peace"
+    ],
+    "reference_answer": "According to the filings, the suppliers of NXP Semiconductors include: Arrow, Avnet, Nexty, WT Micro, World Peace.",
+    "meta": {
+      "focus": "NXP Semiconductors",
+      "relation": "supplier_of"
+    },
+    "id": "q017"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of Marvell Technology?",
+    "answer_entities": [
+      "MediaTek",
+      "Microchip Technology",
+      "Montage Technology",
+      "NVIDIA",
+      "NXP Semiconductors",
+      "Phison Electronics",
+      "Qualcomm",
+      "Rambus",
+      "Ranovus",
+      "Realtek Semiconductor",
+      "Semtech",
+      "Silicon Motion Technology",
+      "Socionext"
+    ],
+    "reference_answer": "According to the filings, the competitors of Marvell Technology include: MediaTek, Microchip Technology, Montage Technology, NVIDIA, NXP Semiconductors, Phison Electronics, Qualcomm, Rambus, Ranovus, Realtek Semiconductor, Semtech, Silicon Motion Technology, Socionext.",
+    "meta": {
+      "focus": "Marvell Technology",
+      "relation": "competitor_of"
+    },
+    "id": "q018"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Broadcom supply?",
+    "answer_entities": [
+      "Arista Networks",
+      "HPE",
+      "Integrated Circuit Systems",
+      "Integrated Device Technology",
+      "Marvell Technology",
+      "TSMC"
+    ],
+    "reference_answer": "According to the filings, the customers of Broadcom include: Arista Networks, HPE, Integrated Circuit Systems, Integrated Device Technology, Marvell Technology, TSMC.",
+    "meta": {
+      "focus": "Broadcom",
+      "relation": "supplier_of"
+    },
+    "id": "q019"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of Amazon?",
+    "answer_entities": [
+      "HPE",
+      "NVIDIA",
+      "Oracle",
+      "Snowflake"
+    ],
+    "reference_answer": "According to the filings, the competitors of Amazon include: HPE, NVIDIA, Oracle, Snowflake.",
+    "meta": {
+      "focus": "Amazon",
+      "relation": "competitor_of"
+    },
+    "id": "q020"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of ON Semiconductor?",
+    "answer_entities": [
+      "ROHM Semiconductor",
+      "Renesas",
+      "STMicroelectronics",
+      "Samsung",
+      "Sony",
+      "Texas Instruments",
+      "Wolfspeed"
+    ],
+    "reference_answer": "According to the filings, the competitors of ON Semiconductor include: ROHM Semiconductor, Renesas, STMicroelectronics, Samsung, Sony, Texas Instruments, Wolfspeed.",
+    "meta": {
+      "focus": "ON Semiconductor",
+      "relation": "competitor_of"
+    },
+    "id": "q021"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies has Cadence Design Systems partnered with?",
+    "answer_entities": [
+      "Hexagon",
+      "NVIDIA",
+      "Silicon Integration Initiative"
+    ],
+    "reference_answer": "According to the filings, the partners of Cadence Design Systems include: Hexagon, NVIDIA, Silicon Integration Initiative.",
+    "meta": {
+      "focus": "Cadence Design Systems",
+      "relation": "partner_of"
+    },
+    "id": "q022"
+  },
+  {
+    "type": "simple",
+    "question": "Who are the main competitors of Oracle?",
+    "answer_entities": [
+      "SAP",
+      "Salesforce",
+      "Workday"
+    ],
+    "reference_answer": "According to the filings, the competitors of Oracle include: SAP, Salesforce, Workday.",
+    "meta": {
+      "focus": "Oracle",
+      "relation": "competitor_of"
+    },
+    "id": "q023"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Microsoft supply?",
+    "answer_entities": [
+      "AMD",
+      "Dell Technologies",
+      "Dynamics 365",
+      "Hewlett-Packard",
+      "Lenovo",
+      "Palantir Technologies",
+      "Snowflake"
+    ],
+    "reference_answer": "According to the filings, the customers of Microsoft include: AMD, Dell Technologies, Dynamics 365, Hewlett-Packard, Lenovo, Palantir Technologies, Snowflake.",
+    "meta": {
+      "focus": "Microsoft",
+      "relation": "supplier_of"
+    },
+    "id": "q024"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies are suppliers to Super Micro Computer?",
+    "answer_entities": [
+      "Ablecom",
+      "Ablecom Technology",
+      "Compuware",
+      "Compuware Technology",
+      "NVIDIA"
+    ],
+    "reference_answer": "According to the filings, the suppliers of Super Micro Computer include: Ablecom, Ablecom Technology, Compuware, Compuware Technology, NVIDIA.",
+    "meta": {
+      "focus": "Super Micro Computer",
+      "relation": "supplier_of"
+    },
+    "id": "q025"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Arista Networks supply?",
+    "answer_entities": [
+      "Cloud and AI Titans",
+      "Enterprise",
+      "Micron Technology",
+      "VeloCloud"
+    ],
+    "reference_answer": "According to the filings, the customers of Arista Networks include: Cloud and AI Titans, Enterprise, Micron Technology, VeloCloud.",
+    "meta": {
+      "focus": "Arista Networks",
+      "relation": "supplier_of"
+    },
+    "id": "q026"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Cadence Design Systems supply?",
+    "answer_entities": [
+      "DSPs",
+      "Jasper Formal Verification Platform",
+      "Palladium Enterprise Emulation Platform",
+      "Verification IP (\"VIP\") portfolio",
+      "Verisium generative AI solution"
+    ],
+    "reference_answer": "According to the filings, the customers of Cadence Design Systems include: DSPs, Jasper Formal Verification Platform, Palladium Enterprise Emulation Platform, Verification IP (\"VIP\") portfolio, Verisium generative AI solution.",
+    "meta": {
+      "focus": "Cadence Design Systems",
+      "relation": "supplier_of"
+    },
+    "id": "q027"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Qualcomm supply?",
+    "answer_entities": [
+      "Apple",
+      "Huawei",
+      "Marvell Technology",
+      "Samsung",
+      "Transsion",
+      "Xiaomi"
+    ],
+    "reference_answer": "According to the filings, the customers of Qualcomm include: Apple, Huawei, Marvell Technology, Samsung, Transsion, Xiaomi.",
+    "meta": {
+      "focus": "Qualcomm",
+      "relation": "supplier_of"
+    },
+    "id": "q028"
+  },
+  {
+    "type": "simple",
+    "question": "Which companies does Intel supply?",
+    "answer_entities": [
+      "AMD",
+      "Altera",
+      "CSP/hyperscalers",
+      "Department of Commerce",
+      "HPE",
+      "Intel Foundry",
+      "Ireland SCIP",
+      "NVIDIA",
+      "SK Hynix",
+      "SLP",
+      "SoftBank Group",
+      "TSMC"
+    ],
+    "reference_answer": "According to the filings, the customers of Intel include: AMD, Altera, CSP/hyperscalers, Department of Commerce, HPE, Intel Foundry, Ireland SCIP, NVIDIA, SK Hynix, SLP, SoftBank Group, TSMC.",
+    "meta": {
+      "focus": "Intel",
+      "relation": "supplier_of"
+    },
+    "id": "q029"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Amazon connected to Texas Instruments?",
+    "answer_entities": [
+      "NXP Semiconductors"
+    ],
+    "reference_answer": "Amazon and Texas Instruments are connected through shared relationships with: NXP Semiconductors.",
+    "meta": {
+      "entity_a": "Amazon",
+      "entity_b": "Texas Instruments",
+      "num_connectors": 1
+    },
+    "id": "q030"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Intel connected to Snowflake?",
+    "answer_entities": [
+      "Alphabet"
+    ],
+    "reference_answer": "Intel and Snowflake are connected through shared relationships with: Alphabet.",
+    "meta": {
+      "entity_a": "Intel",
+      "entity_b": "Snowflake",
+      "num_connectors": 1
+    },
+    "id": "q031"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Arista Networks connected to Synopsys?",
+    "answer_entities": [
+      "Keysight"
+    ],
+    "reference_answer": "Arista Networks and Synopsys are connected through shared relationships with: Keysight.",
+    "meta": {
+      "entity_a": "Arista Networks",
+      "entity_b": "Synopsys",
+      "num_connectors": 1
+    },
+    "id": "q032"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is NXP Semiconductors connected to Oracle?",
+    "answer_entities": [
+      "Amazon"
+    ],
+    "reference_answer": "NXP Semiconductors and Oracle are connected through shared relationships with: Amazon.",
+    "meta": {
+      "entity_a": "NXP Semiconductors",
+      "entity_b": "Oracle",
+      "num_connectors": 1
+    },
+    "id": "q033"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Dell Technologies connected to Qualcomm?",
+    "answer_entities": [
+      "Broadcom"
+    ],
+    "reference_answer": "Dell Technologies and Qualcomm are connected through shared relationships with: Broadcom.",
+    "meta": {
+      "entity_a": "Dell Technologies",
+      "entity_b": "Qualcomm",
+      "num_connectors": 1
+    },
+    "id": "q034"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Dell Technologies connected to NXP Semiconductors?",
+    "answer_entities": [
+      "Broadcom"
+    ],
+    "reference_answer": "Dell Technologies and NXP Semiconductors are connected through shared relationships with: Broadcom.",
+    "meta": {
+      "entity_a": "Dell Technologies",
+      "entity_b": "NXP Semiconductors",
+      "num_connectors": 1
+    },
+    "id": "q035"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is HPE connected to Meta?",
+    "answer_entities": [
+      "Alphabet"
+    ],
+    "reference_answer": "HPE and Meta are connected through shared relationships with: Alphabet.",
+    "meta": {
+      "entity_a": "HPE",
+      "entity_b": "Meta",
+      "num_connectors": 1
+    },
+    "id": "q036"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Amazon connected to Analog Devices?",
+    "answer_entities": [
+      "NXP Semiconductors"
+    ],
+    "reference_answer": "Amazon and Analog Devices are connected through shared relationships with: NXP Semiconductors.",
+    "meta": {
+      "entity_a": "Amazon",
+      "entity_b": "Analog Devices",
+      "num_connectors": 1
+    },
+    "id": "q037"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Microsoft connected to NXP Semiconductors?",
+    "answer_entities": [
+      "AMD"
+    ],
+    "reference_answer": "Microsoft and NXP Semiconductors are connected through shared relationships with: AMD.",
+    "meta": {
+      "entity_a": "Microsoft",
+      "entity_b": "NXP Semiconductors",
+      "num_connectors": 1
+    },
+    "id": "q038"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Analog Devices connected to Lam Research?",
+    "answer_entities": [
+      "TSMC"
+    ],
+    "reference_answer": "Analog Devices and Lam Research are connected through shared relationships with: TSMC.",
+    "meta": {
+      "entity_a": "Analog Devices",
+      "entity_b": "Lam Research",
+      "num_connectors": 1
+    },
+    "id": "q039"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Meta connected to Snowflake?",
+    "answer_entities": [
+      "Alphabet"
+    ],
+    "reference_answer": "Meta and Snowflake are connected through shared relationships with: Alphabet.",
+    "meta": {
+      "entity_a": "Meta",
+      "entity_b": "Snowflake",
+      "num_connectors": 1
+    },
+    "id": "q040"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Broadcom connected to Snowflake?",
+    "answer_entities": [
+      "Dell Technologies"
+    ],
+    "reference_answer": "Broadcom and Snowflake are connected through shared relationships with: Dell Technologies.",
+    "meta": {
+      "entity_a": "Broadcom",
+      "entity_b": "Snowflake",
+      "num_connectors": 1
+    },
+    "id": "q041"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Cadence Design Systems connected to Qualcomm?",
+    "answer_entities": [
+      "NVIDIA"
+    ],
+    "reference_answer": "Cadence Design Systems and Qualcomm are connected through shared relationships with: NVIDIA.",
+    "meta": {
+      "entity_a": "Cadence Design Systems",
+      "entity_b": "Qualcomm",
+      "num_connectors": 1
+    },
+    "id": "q042"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Lam Research connected to Tesla?",
+    "answer_entities": [
+      "Samsung"
+    ],
+    "reference_answer": "Lam Research and Tesla are connected through shared relationships with: Samsung.",
+    "meta": {
+      "entity_a": "Lam Research",
+      "entity_b": "Tesla",
+      "num_connectors": 1
+    },
+    "id": "q043"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Analog Devices connected to KLA?",
+    "answer_entities": [
+      "TSMC"
+    ],
+    "reference_answer": "Analog Devices and KLA are connected through shared relationships with: TSMC.",
+    "meta": {
+      "entity_a": "Analog Devices",
+      "entity_b": "KLA",
+      "num_connectors": 1
+    },
+    "id": "q044"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Seagate Technology connected to Tesla?",
+    "answer_entities": [
+      "Samsung"
+    ],
+    "reference_answer": "Seagate Technology and Tesla are connected through shared relationships with: Samsung.",
+    "meta": {
+      "entity_a": "Seagate Technology",
+      "entity_b": "Tesla",
+      "num_connectors": 1
+    },
+    "id": "q045"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Amazon connected to Meta?",
+    "answer_entities": [
+      "Alphabet"
+    ],
+    "reference_answer": "Amazon and Meta are connected through shared relationships with: Alphabet.",
+    "meta": {
+      "entity_a": "Amazon",
+      "entity_b": "Meta",
+      "num_connectors": 1
+    },
+    "id": "q046"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is KLA connected to ON Semiconductor?",
+    "answer_entities": [
+      "Samsung"
+    ],
+    "reference_answer": "KLA and ON Semiconductor are connected through shared relationships with: Samsung.",
+    "meta": {
+      "entity_a": "KLA",
+      "entity_b": "ON Semiconductor",
+      "num_connectors": 1
+    },
+    "id": "q047"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Alphabet connected to ON Semiconductor?",
+    "answer_entities": [
+      "Intel"
+    ],
+    "reference_answer": "Alphabet and ON Semiconductor are connected through shared relationships with: Intel.",
+    "meta": {
+      "entity_a": "Alphabet",
+      "entity_b": "ON Semiconductor",
+      "num_connectors": 1
+    },
+    "id": "q048"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Cisco Systems connected to Synopsys?",
+    "answer_entities": [
+      "Microsoft"
+    ],
+    "reference_answer": "Cisco Systems and Synopsys are connected through shared relationships with: Microsoft.",
+    "meta": {
+      "entity_a": "Cisco Systems",
+      "entity_b": "Synopsys",
+      "num_connectors": 1
+    },
+    "id": "q049"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is KLA connected to Micron Technology?",
+    "answer_entities": [
+      "Samsung"
+    ],
+    "reference_answer": "KLA and Micron Technology are connected through shared relationships with: Samsung.",
+    "meta": {
+      "entity_a": "KLA",
+      "entity_b": "Micron Technology",
+      "num_connectors": 1
+    },
+    "id": "q050"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Palantir Technologies connected to Seagate Technology?",
+    "answer_entities": [
+      "Microsoft"
+    ],
+    "reference_answer": "Palantir Technologies and Seagate Technology are connected through shared relationships with: Microsoft.",
+    "meta": {
+      "entity_a": "Palantir Technologies",
+      "entity_b": "Seagate Technology",
+      "num_connectors": 1
+    },
+    "id": "q051"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Oracle connected to Qualcomm?",
+    "answer_entities": [
+      "Intel"
+    ],
+    "reference_answer": "Oracle and Qualcomm are connected through shared relationships with: Intel.",
+    "meta": {
+      "entity_a": "Oracle",
+      "entity_b": "Qualcomm",
+      "num_connectors": 1
+    },
+    "id": "q052"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Cadence Design Systems connected to Super Micro Computer?",
+    "answer_entities": [
+      "NVIDIA"
+    ],
+    "reference_answer": "Cadence Design Systems and Super Micro Computer are connected through shared relationships with: NVIDIA.",
+    "meta": {
+      "entity_a": "Cadence Design Systems",
+      "entity_b": "Super Micro Computer",
+      "num_connectors": 1
+    },
+    "id": "q053"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Seagate Technology connected to Synopsys?",
+    "answer_entities": [
+      "Microsoft"
+    ],
+    "reference_answer": "Seagate Technology and Synopsys are connected through shared relationships with: Microsoft.",
+    "meta": {
+      "entity_a": "Seagate Technology",
+      "entity_b": "Synopsys",
+      "num_connectors": 1
+    },
+    "id": "q054"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Broadcom connected to Tesla?",
+    "answer_entities": [
+      "NVIDIA"
+    ],
+    "reference_answer": "Broadcom and Tesla are connected through shared relationships with: NVIDIA.",
+    "meta": {
+      "entity_a": "Broadcom",
+      "entity_b": "Tesla",
+      "num_connectors": 1
+    },
+    "id": "q055"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Cisco Systems connected to Lam Research?",
+    "answer_entities": [
+      "Huawei"
+    ],
+    "reference_answer": "Cisco Systems and Lam Research are connected through shared relationships with: Huawei.",
+    "meta": {
+      "entity_a": "Cisco Systems",
+      "entity_b": "Lam Research",
+      "num_connectors": 1
+    },
+    "id": "q056"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Microsoft connected to Texas Instruments?",
+    "answer_entities": [
+      "AMD"
+    ],
+    "reference_answer": "Microsoft and Texas Instruments are connected through shared relationships with: AMD.",
+    "meta": {
+      "entity_a": "Microsoft",
+      "entity_b": "Texas Instruments",
+      "num_connectors": 1
+    },
+    "id": "q057"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is Micron Technology connected to ON Semiconductor?",
+    "answer_entities": [
+      "Samsung"
+    ],
+    "reference_answer": "Micron Technology and ON Semiconductor are connected through shared relationships with: Samsung.",
+    "meta": {
+      "entity_a": "Micron Technology",
+      "entity_b": "ON Semiconductor",
+      "num_connectors": 1
+    },
+    "id": "q058"
+  },
+  {
+    "type": "multi_hop",
+    "question": "How is AMD connected to Cadence Design Systems?",
+    "answer_entities": [
+      "NVIDIA"
+    ],
+    "reference_answer": "AMD and Cadence Design Systems are connected through shared relationships with: NVIDIA.",
+    "meta": {
+      "entity_a": "AMD",
+      "entity_b": "Cadence Design Systems",
+      "num_connectors": 1
+    },
+    "id": "q059"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Samsung?",
+    "answer_entities": [
+      "AMD",
+      "Intel",
+      "KLA",
+      "Lam Research",
+      "Micron Technology",
+      "NVIDIA",
+      "ON Semiconductor",
+      "Qualcomm",
+      "Seagate Technology",
+      "Super Micro Computer",
+      "Tesla"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Samsung: AMD, Intel, KLA, Lam Research, Micron Technology, NVIDIA, ON Semiconductor, Qualcomm, Seagate Technology, Super Micro Computer, Tesla.",
+    "meta": {
+      "hub": "Samsung",
+      "num_companies": 11
+    },
+    "id": "q060"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with TSMC?",
+    "answer_entities": [
+      "AMD",
+      "Analog Devices",
+      "Broadcom",
+      "Intel",
+      "KLA",
+      "Lam Research",
+      "NVIDIA",
+      "NXP Semiconductors",
+      "Qualcomm"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with TSMC: AMD, Analog Devices, Broadcom, Intel, KLA, Lam Research, NVIDIA, NXP Semiconductors, Qualcomm.",
+    "meta": {
+      "hub": "TSMC",
+      "num_companies": 9
+    },
+    "id": "q061"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Huawei?",
+    "answer_entities": [
+      "Arista Networks",
+      "Cisco Systems",
+      "HPE",
+      "KLA",
+      "Lam Research",
+      "NVIDIA",
+      "NXP Semiconductors",
+      "Qualcomm",
+      "Seagate Technology"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Huawei: Arista Networks, Cisco Systems, HPE, KLA, Lam Research, NVIDIA, NXP Semiconductors, Qualcomm, Seagate Technology.",
+    "meta": {
+      "hub": "Huawei",
+      "num_companies": 9
+    },
+    "id": "q062"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with U.S. government?",
+    "answer_entities": [
+      "AMD",
+      "Analog Devices",
+      "Intel",
+      "Marvell Technology",
+      "Microsoft",
+      "NVIDIA",
+      "Oracle",
+      "Palantir Technologies"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with U.S. government: AMD, Analog Devices, Intel, Marvell Technology, Microsoft, NVIDIA, Oracle, Palantir Technologies.",
+    "meta": {
+      "hub": "U.S. government",
+      "num_companies": 8
+    },
+    "id": "q063"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with SK Hynix?",
+    "answer_entities": [
+      "Intel",
+      "Micron Technology",
+      "NVIDIA",
+      "Seagate Technology"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with SK Hynix: Intel, Micron Technology, NVIDIA, Seagate Technology.",
+    "meta": {
+      "hub": "SK Hynix",
+      "num_companies": 4
+    },
+    "id": "q064"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with OpenAI?",
+    "answer_entities": [
+      "AMD",
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with OpenAI: AMD, Microsoft, NVIDIA.",
+    "meta": {
+      "hub": "OpenAI",
+      "num_companies": 3
+    },
+    "id": "q065"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Sony?",
+    "answer_entities": [
+      "AMD",
+      "ON Semiconductor",
+      "Seagate Technology"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Sony: AMD, ON Semiconductor, Seagate Technology.",
+    "meta": {
+      "hub": "Sony",
+      "num_companies": 3
+    },
+    "id": "q066"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Siliconware Precision Industries?",
+    "answer_entities": [
+      "AMD",
+      "Broadcom",
+      "Qualcomm"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Siliconware Precision Industries: AMD, Broadcom, Qualcomm.",
+    "meta": {
+      "hub": "Siliconware Precision Industries",
+      "num_companies": 3
+    },
+    "id": "q067"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Keysight?",
+    "answer_entities": [
+      "Arista Networks",
+      "Cadence Design Systems",
+      "Synopsys"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Keysight: Arista Networks, Cadence Design Systems, Synopsys.",
+    "meta": {
+      "hub": "Keysight",
+      "num_companies": 3
+    },
+    "id": "q068"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with China?",
+    "answer_entities": [
+      "Arista Networks",
+      "Marvell Technology",
+      "Seagate Technology"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with China: Arista Networks, Marvell Technology, Seagate Technology.",
+    "meta": {
+      "hub": "China",
+      "num_companies": 3
+    },
+    "id": "q069"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with IBM?",
+    "answer_entities": [
+      "Alphabet",
+      "HPE",
+      "Oracle"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with IBM: Alphabet, HPE, Oracle.",
+    "meta": {
+      "hub": "IBM",
+      "num_companies": 3
+    },
+    "id": "q070"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Lenovo?",
+    "answer_entities": [
+      "HPE",
+      "Microsoft",
+      "Super Micro Computer"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Lenovo: HPE, Microsoft, Super Micro Computer.",
+    "meta": {
+      "hub": "Lenovo",
+      "num_companies": 3
+    },
+    "id": "q071"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with MediaTek?",
+    "answer_entities": [
+      "Intel",
+      "Marvell Technology",
+      "Qualcomm"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with MediaTek: Intel, Marvell Technology, Qualcomm.",
+    "meta": {
+      "hub": "MediaTek",
+      "num_companies": 3
+    },
+    "id": "q072"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Infineon?",
+    "answer_entities": [
+      "Marvell Technology",
+      "NXP Semiconductors",
+      "ON Semiconductor"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Infineon: Marvell Technology, NXP Semiconductors, ON Semiconductor.",
+    "meta": {
+      "hub": "Infineon",
+      "num_companies": 3
+    },
+    "id": "q073"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Sandisk?",
+    "answer_entities": [
+      "Micron Technology",
+      "Seagate Technology",
+      "Western Digital"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Sandisk: Micron Technology, Seagate Technology, Western Digital.",
+    "meta": {
+      "hub": "Sandisk",
+      "num_companies": 3
+    },
+    "id": "q074"
+  },
+  {
+    "type": "global",
+    "question": "Which companies in the corpus have a business relationship with Renesas?",
+    "answer_entities": [
+      "NVIDIA",
+      "NXP Semiconductors",
+      "ON Semiconductor"
+    ],
+    "reference_answer": "The following corpus companies have a disclosed relationship with Renesas: NVIDIA, NXP Semiconductors, ON Semiconductor.",
+    "meta": {
+      "hub": "Renesas",
+      "num_companies": 3
+    },
+    "id": "q075"
+  }
+]

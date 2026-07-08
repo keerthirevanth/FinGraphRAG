@@ -1,0 +1,352 @@
+{
+  "ticker": "NXPI",
+  "company": "NXP Semiconductors N.V.",
+  "chunks_processed": 36,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "NXP Semiconductors",
+      "relation": "supplier_of",
+      "target": "Amazon",
+      "evidence": "Amazon Free RTOS",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "supplier_of",
+      "target": "Zephyr",
+      "evidence": "Zephyr RTOS",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "invests_in",
+      "target": "Kinara",
+      "evidence": "In 2025, NXP acquired Kinara",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "Kinara",
+      "relation": "subsidiary_of",
+      "target": "NXP Semiconductors",
+      "evidence": "In 2025, NXP acquired Kinara",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "partner_of",
+      "target": "Vanguard International Semiconductor",
+      "evidence": "VSMC is 60% owned by Vanguard International Semiconductor Corporation and 40% owned by NXP.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "partner_of",
+      "target": "TSMC",
+      "evidence": "SSMC wafer fab facility, which produces 8 inch wafers, is jointly owned by TSMC and ourselves.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "customer_of",
+      "target": "Arrow",
+      "evidence": "our five largest distribution partners, including Arrow",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "customer_of",
+      "target": "Avnet",
+      "evidence": "our five largest distribution partners, including Avnet",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "customer_of",
+      "target": "Nexty",
+      "evidence": "our five largest distribution partners, including Nexty",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "customer_of",
+      "target": "WT Micro",
+      "evidence": "our five largest distribution partners, including WT Micro",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "customer_of",
+      "target": "World Peace",
+      "evidence": "our five largest distribution partners, including World Peace",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Analog Devices",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Analog Devices Inc.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Broadcom Inc.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Infineon",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Infineon Technologies AG",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Microchip Technology",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Microchip Technology Inc.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Qualcomm Inc.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Renesas",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Renesas Electronics Corp.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "STMicroelectronics",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, STMicroelectronics NV",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP Semiconductors",
+      "relation": "competitor_of",
+      "target": "Texas Instruments",
+      "evidence": "Our primary key public competitors in alphabetical order include, but are not limited to, Texas Instruments Inc.",
+      "ticker": "NXPI",
+      "section": "1"
+    },
+    {
+      "source": "NXP",
+      "relation": "partner_of",
+      "target": "TSMC",
+      "evidence": "we currently participate in a joint venture with Taiwan Semiconductor Manufacturing Company Limited (\"TSMC\") called Systems on Silicon Manufacturing Company Pte. Ltd. (\"SSMC\")",
+      "ticker": "NXPI",
+      "section": "1A"
+    },
+    {
+      "source": "NXP",
+      "relation": "partner_of",
+      "target": "Vanguard",
+      "evidence": "and have recently formed a joint venture with Vanguard International Semiconductor Corporation called VisionPower Semiconductor Manufacturing Company Pte. Ltd. (\"VSMC\")",
+      "ticker": "NXPI",
+      "section": "1A"
+    },
+    {
+      "source": "NXP",
+      "relation": "partner_of",
+      "target": "Robert Bosch",
+      "evidence": "and a joint venture with TSMC, Robert Bosch Gmbh and Infineon Technologies AG called European Semiconductor Manufacturing Company (\"ESMC\")",
+      "ticker": "NXPI",
+      "section": "1A"
+    },
+    {
+      "source": "NXP",
+      "relation": "partner_of",
+      "target": "Infineon",
+      "evidence": "and a joint venture with TSMC, Robert Bosch Gmbh and Infineon Technologies AG called European Semiconductor Manufacturing Company (\"ESMC\")",
+      "ticker": "NXPI",
+      "section": "1A"
+    },
+    {
+      "source": "Huawei",
+      "relation": "customer_of",
+      "target": "NXP Semiconductors",
+      "evidence": "For example, in 2020, due to regulations imposed by the U.S. government, we ceased shipments of our products to Huawei pending approval of export licenses.",
+      "ticker": "NXPI",
+      "section": "1A"
+    },
+    {
+      "source": "European Investment Bank",
+      "relation": "invests_in",
+      "target": "NXP Semiconductors",
+      "evidence": "The RCF Agreement, European Investment Bank (EIB) loan facilities... require us to comply with various covenants.",
+      "ticker": "NXPI",
+      "section": "1A"
+    },
+    {
+      "source": "TTTech Auto",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "On June 17, 2025, NXP announced the closing of the acquisition of 100% of TTTech Auto for $766 million...",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "Aviva Links",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "On October 24, 2025, NXP closed the previously announced acquisition of 100% of Aviva Links for $222 million...",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "Kinara",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "On October 27, 2025, NXP closed the previously announced acquisition of 100% of Kinara, Inc. for $284 million...",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "Marvell Technology",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "with regard to the previous Marvell acquisition",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "SigmaSense",
+      "evidence": "impairment of our equity method investment SigmaSense",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "Smart Growth Fund",
+      "evidence": "loss on the sale of our equity method investment Smart Growth Fund",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "partner_of",
+      "target": "SSMC",
+      "evidence": "SSMC, our consolidated joint venture company with TSMC",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "European Investment Bank",
+      "relation": "supplier_of",
+      "target": "NXP",
+      "evidence": "Our facility agreements with the European Investment Bank (EIB) provide for an aggregate \u20ac1,000 million in unsecured senior loan facilities",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "customer_of",
+      "target": "EIB",
+      "evidence": "outstanding loans with the EIB under the EIB Facilities",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "ESMC",
+      "evidence": "committed to invest \u20ac500 million ... in the equity of the recently founded company ESMC. NXP has invested $183 million",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "VSMC",
+      "evidence": "The Company has committed to invest approximately $1,600 million in equity of the recently founded company VSMC.",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "VSMC",
+      "relation": "supplier_of",
+      "target": "NXP",
+      "evidence": "NXP has an agreed purchase commitment with VSMC ... resulting in a total purchase commitment of approximately $14,096 million.",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "TTTech Auto",
+      "evidence": "acquisitions of TTTech Auto for $675 million",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "Kinara",
+      "evidence": "acquisitions of Kinara of $283 million",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP",
+      "relation": "invests_in",
+      "target": "Aviva Links",
+      "evidence": "acquisitions of Aviva Links of $202 million",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP USA",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "NXP USA, Inc., NXP B.V. and NXP Funding LLC ... are wholly owned subsidiaries of the Company",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP B.V.",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "NXP USA, Inc., NXP B.V. and NXP Funding LLC ... are wholly owned subsidiaries of the Company",
+      "ticker": "NXPI",
+      "section": "7"
+    },
+    {
+      "source": "NXP Funding",
+      "relation": "subsidiary_of",
+      "target": "NXP",
+      "evidence": "NXP USA, Inc., NXP B.V. and NXP Funding LLC ... are wholly owned subsidiaries of the Company",
+      "ticker": "NXPI",
+      "section": "7"
+    }
+  ]
+}

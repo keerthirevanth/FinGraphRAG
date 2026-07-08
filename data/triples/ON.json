@@ -1,0 +1,184 @@
+{
+  "ticker": "ON",
+  "company": "ON Semiconductor Corporation",
+  "chunks_processed": 33,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Infineon",
+      "evidence": "PSG's primary competitors include: Infineon Technologies AG",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "STMicroelectronics",
+      "evidence": "PSG's primary competitors include: STMicroelectronics N.V.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Wolfspeed",
+      "evidence": "PSG's primary competitors include: Wolfspeed Inc.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "ROHM Semiconductor",
+      "evidence": "PSG's primary competitors include: ROHM Semiconductor",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Nexperia BV",
+      "evidence": "PSG's primary competitors include: Nexperia BV",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Texas Instruments",
+      "evidence": "Competitors for certain of AMG's products and solutions include: Texas Instruments Incorporated",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Analog Devices",
+      "evidence": "Competitors for certain of AMG's products and solutions include: Analog Devices, Inc.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Renesas",
+      "evidence": "Competitors for certain of AMG's products and solutions include: Renesas Electronics Corporation",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Monolithic Power Systems",
+      "evidence": "Competitors for certain of AMG's products and solutions include: Monolithic Power Systems Inc.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "NXP Semiconductors",
+      "evidence": "Competitors for certain of AMG's products and solutions include: NXP Semiconductors N.V.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Sony",
+      "evidence": "Competitors for certain of ISG's products and solutions include: Sony Semiconductor Manufacturing Corporation",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Samsung",
+      "evidence": "Competitors for certain of ISG's products and solutions include: Samsung Electronics Co., Ltd.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Omnivision Technologies",
+      "evidence": "Competitors for certain of ISG's products and solutions include: Omnivision Technologies Inc.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "partner_of",
+      "target": "Leshan Radio",
+      "evidence": "Our joint venture partner is Leshan Radio Company Ltd. (\"Leshan Radio\").",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "invests_in",
+      "target": "Leshan-Phoenix Semiconductor",
+      "evidence": "a joint venture company in which we own 80% of the outstanding equity interests (\"Leshan\")",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "customer_of",
+      "target": "Leshan-Phoenix Semiconductor",
+      "evidence": "We purchased 80% of Leshan's production capacity in each of 2025, 2024 and 2023",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "depends_on",
+      "target": "Leshan-Phoenix Semiconductor",
+      "evidence": "requests for production capacity are made to the board of directors of Leshan by each shareholder of the joint venture",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "invests_in",
+      "target": "Lumentum",
+      "evidence": "Mr. Trent has held several leadership roles throughout his career, and he currently serves on the board of directors of Lumentum Holdings Inc.",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "depends_on",
+      "target": "Infineon",
+      "evidence": "Cypress was sold to Infineon in April 2020",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Intel",
+      "evidence": "",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "ON Semiconductor",
+      "relation": "competitor_of",
+      "target": "Cypress",
+      "evidence": "",
+      "ticker": "ON",
+      "section": "1"
+    },
+    {
+      "source": "Leshan-Phoenix Semiconductor",
+      "relation": "subsidiary_of",
+      "target": "ON Semiconductor",
+      "evidence": "owned by Leshan-Phoenix Semiconductor Company Limited, a joint venture company in which we own 80% of the outstanding equity interests",
+      "ticker": "ON",
+      "section": "1A"
+    }
+  ]
+}

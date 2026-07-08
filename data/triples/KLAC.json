@@ -1,0 +1,64 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "chunks_processed": 43,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "KLA",
+      "relation": "customer_of",
+      "target": "TSMC",
+      "evidence": "Taiwan Semiconductor Manufacturing Company Limited accounted for more than 10% of total revenues",
+      "ticker": "KLAC",
+      "section": "1"
+    },
+    {
+      "source": "KLA",
+      "relation": "customer_of",
+      "target": "Samsung",
+      "evidence": "Samsung Electronics Co., Ltd. accounted for more than 10% of total revenues",
+      "ticker": "KLAC",
+      "section": "1"
+    },
+    {
+      "source": "Huawei",
+      "relation": "customer_of",
+      "target": "KLA",
+      "evidence": "the addition of numerous entities to the U.S. Entity List... and the creation of new licensing requirements that apply to the export, re-export, and transfer of certain foreign-made items... to Huawei or its affiliates...",
+      "ticker": "KLAC",
+      "section": "1A"
+    },
+    {
+      "source": "KLA",
+      "relation": "depends_on",
+      "target": "SBTi",
+      "evidence": "several of these goals have been validated by SBTi",
+      "ticker": "KLAC",
+      "section": "1A"
+    },
+    {
+      "source": "Singapore",
+      "relation": "depends_on",
+      "target": "OECD",
+      "evidence": "Many countries have enacted or drafted legislation using the Pillar Two framework... One country that has adopted Pillar Two legislation is Singapore...",
+      "ticker": "KLAC",
+      "section": "1A"
+    },
+    {
+      "source": "KLA",
+      "relation": "supplier_of",
+      "target": "TSMC",
+      "evidence": "The following customers each accounted for more than 10% of our total revenues... Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "KLAC",
+      "section": "7"
+    },
+    {
+      "source": "KLA",
+      "relation": "supplier_of",
+      "target": "Samsung",
+      "evidence": "The following customers each accounted for more than 10% of our total revenues... Samsung Electronics Co., Ltd.",
+      "ticker": "KLAC",
+      "section": "7"
+    }
+  ]
+}

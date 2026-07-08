@@ -1,0 +1,272 @@
+{
+  "ticker": "ANET",
+  "company": "Arista Networks, Inc.",
+  "chunks_processed": 50,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Arista Networks",
+      "relation": "customer_of",
+      "target": "Broadcom",
+      "evidence": "we are primarily reliant upon our predominant merchant silicon vendor, Broadcom, for our switching chips",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "partner_of",
+      "target": "Jabil",
+      "evidence": "Our primary manufacturing partners are Jabil Inc.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "partner_of",
+      "target": "Sanmina",
+      "evidence": "Our primary manufacturing partners are Sanmina Corporation",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "partner_of",
+      "target": "Foxconn Hon Hai",
+      "evidence": "Our primary manufacturing partners are Foxconn Hon Hai",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Broadcom",
+      "relation": "supplier_of",
+      "target": "Arista Networks",
+      "evidence": "we are primarily reliant upon our predominant merchant silicon vendor, Broadcom, for our switching chips",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Cisco Systems",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Dell/EMC",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Extreme Networks",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "HPE",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Huawei",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Juniper Networks",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "The data center and campus networking markets have historically been dominated by Cisco, with competition also coming from other large network equipment and system vendors, including Dell/EMC, Extreme Networks, Hewlett Packard Enterprise, Huawei, Juniper Networks, Nvidia, and white box networking ve",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Darktrace",
+      "evidence": "In the NDR market, our Arista NDR offerings compete with other network security vendors including Cisco, Darktrace, and ExtraHop.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "ExtraHop",
+      "evidence": "In the NDR market, our Arista NDR offerings compete with other network security vendors including Cisco, Darktrace, and ExtraHop.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Gigamon",
+      "evidence": "In the network packet broker (\"NPB\") market, Arista DANZ Monitoring Fabric (\"DMF\") competes with Cisco, Gigamon, Keysight, Netscout and other network monitoring software providers.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Keysight",
+      "evidence": "In the network packet broker (\"NPB\") market, Arista DANZ Monitoring Fabric (\"DMF\") competes with Cisco, Gigamon, Keysight, Netscout and other network monitoring software providers.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Netscout",
+      "evidence": "In the network packet broker (\"NPB\") market, Arista DANZ Monitoring Fabric (\"DMF\") competes with Cisco, Gigamon, Keysight, Netscout and other network monitoring software providers.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "HPE",
+      "relation": "invests_in",
+      "target": "Juniper Networks",
+      "evidence": "For example, Broadcom has acquired VMware, Hewlett Packard Enterprise has acquired Juniper Networks and Nvidia has made significant investments in several AI Neoclouds.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "NVIDIA",
+      "relation": "invests_in",
+      "target": "AI Neoclouds",
+      "evidence": "For example, Broadcom has acquired VMware, Hewlett Packard Enterprise has acquired Juniper Networks and Nvidia has made significant investments in several AI Neoclouds.",
+      "ticker": "ANET",
+      "section": "1"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "partner_of",
+      "target": "Broadcom",
+      "evidence": "Our product development efforts are also dependent upon the success of our continued collaboration with our key merchant silicon vendors such as Broadcom",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "customer_of",
+      "target": "NVIDIA",
+      "evidence": "demand for our customers' products and services",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "InfiniBand products",
+      "evidence": "compete against more established InfiniBand products",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "Broadcom acquired Brocade Communications and VMware",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "competitor_of",
+      "target": "Dell Technologies",
+      "evidence": "Dell acquired Force10 Networks",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "invests_in",
+      "target": "VeloCloud",
+      "evidence": "we completed the acquisition of VeloCloud in June 2025",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "supplier_of",
+      "target": "Micron Technology",
+      "evidence": "China has announced controls on both the use of Micron products",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "China",
+      "relation": "supplier_of",
+      "target": "Arista Networks",
+      "evidence": "impact our ability to source components from China",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Micron Technology",
+      "relation": "supplier_of",
+      "target": "Arista Networks",
+      "evidence": "Chinese government announced controls on the use of Micron products",
+      "ticker": "ANET",
+      "section": "1A"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "customer_of",
+      "target": "Cloud and AI Titans",
+      "evidence": "The percentage of revenue derived from these customers during the current fiscal year was approximately 48% from Cloud and AI Titans",
+      "ticker": "ANET",
+      "section": "7"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "customer_of",
+      "target": "Enterprise",
+      "evidence": "The percentage of revenue derived from these customers during the current fiscal year was approximately 32% from Enterprise",
+      "ticker": "ANET",
+      "section": "7"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "supplier_of",
+      "target": "Cloud and AI Titans",
+      "evidence": "Arista established itself as a market leader with platforms, products, and people to enable some of these hyperscalers' most consequential networks",
+      "ticker": "ANET",
+      "section": "7"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "supplier_of",
+      "target": "Enterprise",
+      "evidence": "Our network-as-a-service approach now empowers customers of all sizes to seamlessly leverage their data",
+      "ticker": "ANET",
+      "section": "7"
+    },
+    {
+      "source": "Arista Networks",
+      "relation": "supplier_of",
+      "target": "VeloCloud",
+      "evidence": "business acquisition of VeloCloud",
+      "ticker": "ANET",
+      "section": "7"
+    }
+  ]
+}

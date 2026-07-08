@@ -1,0 +1,112 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "chunks_processed": 66,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Palantir Technologies",
+      "relation": "customer_of",
+      "target": "supply-chain managers in South Korea",
+      "evidence": "our software is used across many industries around the world. It is applied to a variety of use cases by users across various business functions and levels of organizations, including by utility operations analysts, automotive manufacturing workers, oil and gas technicians and operators, and pharmac",
+      "ticker": "PLTR",
+      "section": "1"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "partner_of",
+      "target": "Fujitsu",
+      "evidence": "strategic global partnership with Fujitsu Limited",
+      "ticker": "PLTR",
+      "section": "1"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "partner_of",
+      "target": "U.S. Army",
+      "evidence": "selected by the U.S. Army to develop and deliver the Tactical Intelligence Targeting Access Node ground station system",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "partner_of",
+      "target": "SOMPO",
+      "evidence": "we created a jointly controlled entity in Japan with SOMPO Holdings, Inc.",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "partner_of",
+      "target": "HD Hyundai",
+      "evidence": "We also created a jointly-owned entity in South Korea with HD Hyundai Co. Ltd. in December 2022",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "depends_on",
+      "target": "Amazon",
+      "evidence": "We depend on computing infrastructure operated by Amazon Web Services (\"AWS\"), Microsoft, and other third parties",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "depends_on",
+      "target": "Microsoft",
+      "evidence": "We rely on the technology, infrastructure, and software applications, including software-as-a-service offerings, of certain third parties, such as AWS and Microsoft Azure",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "customer_of",
+      "target": "Amazon",
+      "evidence": "AWS, Microsoft Azure, and other third parties have no obligation to renew their agreements with us on commercially reasonable terms, or at all.",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "customer_of",
+      "target": "Microsoft",
+      "evidence": "AWS, Microsoft Azure, and other third parties have no obligation to renew their agreements with us on commercially reasonable terms, or at all.",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "customer_of",
+      "target": "U.S. government",
+      "evidence": "government contracts",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "U.S. government",
+      "relation": "supplier_of",
+      "target": "Palantir Technologies",
+      "evidence": "government contracts",
+      "ticker": "PLTR",
+      "section": "1A"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "customer_of",
+      "target": "U.S. Food and Drug Administration",
+      "evidence": "we treat each of those agencies as a separate customer",
+      "ticker": "PLTR",
+      "section": "7"
+    },
+    {
+      "source": "Palantir Technologies",
+      "relation": "customer_of",
+      "target": "National Institutes of Health",
+      "evidence": "we treat each of those agencies as a separate customer",
+      "ticker": "PLTR",
+      "section": "7"
+    }
+  ]
+}

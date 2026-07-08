@@ -1,0 +1,240 @@
+{
+  "ticker": "QCOM",
+  "company": "QUALCOMM Incorporated",
+  "chunks_processed": 43,
+  "parse_failures": 1,
+  "triples": [
+    {
+      "source": "Qualcomm",
+      "relation": "partner_of",
+      "target": "3GPP",
+      "evidence": "contributing to 3GPP (3rd Generation Partnership Project, a global organization that develops technical specifications) standardization activities",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "TSMC",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "The primary foundry suppliers for our various... include Taiwan Semiconductor Manufacturing Company (TSMC), Samsung Electronics and Global Foundries.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Samsung",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "The primary foundry suppliers for our various... include Taiwan Semiconductor Manufacturing Company (TSMC), Samsung Electronics and Global Foundries.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Global Foundries",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "The primary foundry suppliers for our various... include Taiwan Semiconductor Manufacturing Company (TSMC), Samsung Electronics and Global Foundries.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Advanced Semiconductor Engineering",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "Our primary semiconductor assembly and test suppliers are Advanced Semiconductor Engineering, Amkor Technology, Siliconware Precision Industries and STATSChipPAC.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Amkor Technology",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "Our primary semiconductor assembly and test suppliers are Advanced Semiconductor Engineering, Amkor Technology, Siliconware Precision Industries and STATSChipPAC.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Siliconware Precision Industries",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "Our primary semiconductor assembly and test suppliers are Advanced Semiconductor Engineering, Amkor Technology, Siliconware Precision Industries and STATSChipPAC.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "STATSChipPAC",
+      "relation": "supplier_of",
+      "target": "Qualcomm",
+      "evidence": "Our primary semiconductor assembly and test suppliers are Advanced Semiconductor Engineering, Amkor Technology, Siliconware Precision Industries and STATSChipPAC.",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Apple",
+      "relation": "customer_of",
+      "target": "Qualcomm",
+      "evidence": "revenues from Apple, Samsung and Xiaomi each comprised 10% or more of our consolidated revenues",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Samsung",
+      "relation": "customer_of",
+      "target": "Qualcomm",
+      "evidence": "revenues from Apple, Samsung and Xiaomi each comprised 10% or more of our consolidated revenues",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Xiaomi",
+      "relation": "customer_of",
+      "target": "Qualcomm",
+      "evidence": "revenues from Apple, Samsung and Xiaomi each comprised 10% or more of our consolidated revenues",
+      "ticker": "QCOM",
+      "section": "1"
+    },
+    {
+      "source": "Huawei",
+      "relation": "customer_of",
+      "target": "Qualcomm",
+      "evidence": "the U.S. Department of Commerce revoked the export license under which we previously sold 4G and certain other integrated circuit products to Huawei.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "Broadcom",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "HiSilicon",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "MediaTek",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "Mobileye",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "NVIDIA",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "NXP Semiconductors",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "Qorvo",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "Samsung",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "Skyworks",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "Texas Instruments",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "competitor_of",
+      "target": "UNISOC",
+      "evidence": "Examples include Broadcom, HiSilicon, MediaTek, Mobileye, Nvidia, NXP Semiconductors, Qorvo, Samsung, Skyworks, Texas Instruments and UNISOC.",
+      "ticker": "QCOM",
+      "section": "1A"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "invests_in",
+      "target": "QSI",
+      "evidence": "initial public offerings of certain QSI equity investments",
+      "ticker": "QCOM",
+      "section": "7"
+    },
+    {
+      "source": "Transsion",
+      "relation": "customer_of",
+      "target": "Qualcomm",
+      "evidence": "entered into comprehensive 4G and 5G license agreements with Transsion",
+      "ticker": "QCOM",
+      "section": "7"
+    },
+    {
+      "source": "Apple",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "Apple began utilizing its own modem (rather than our products)",
+      "ticker": "QCOM",
+      "section": "7"
+    },
+    {
+      "source": "Samsung",
+      "relation": "competitor_of",
+      "target": "Qualcomm",
+      "evidence": "vertical integration by certain of our customers (for example, Apple and Samsung)",
+      "ticker": "QCOM",
+      "section": "7"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "invests_in",
+      "target": "Alphawave IP Group",
+      "evidence": "In connection with our pending acquisition of Alphawave IP Group plc (Alphawave), we agreed to restrict the use of approximately $2.3\u202fbillion of cash to be held for purposes of satisfying payment of the consideration to effect the acquisition.",
+      "ticker": "QCOM",
+      "section": "7"
+    },
+    {
+      "source": "Qualcomm",
+      "relation": "invests_in",
+      "target": "Alphawave",
+      "evidence": "we announced that we reached an agreement to acquire Alphawave",
+      "ticker": "QCOM",
+      "section": "7"
+    }
+  ]
+}

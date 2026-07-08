@@ -1,0 +1,152 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft Corporation",
+  "chunks_processed": 31,
+  "parse_failures": 0,
+  "triples": [
+    {
+      "source": "Microsoft",
+      "relation": "partner_of",
+      "target": "GitHub",
+      "evidence": "GitHub and Nuance Healthcare include both cloud and-premises offerings.",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "invests_in",
+      "target": "GitHub",
+      "evidence": "GitHub cloud services",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "partner_of",
+      "target": "Nuance Healthcare",
+      "evidence": "Nuance professional services",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "supplier_of",
+      "target": "Dynamics 365",
+      "evidence": "",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "partner_of",
+      "target": "Windows OEMs",
+      "evidence": "Many of these manufacturers are also current or potential partners and customers, including our Windows OEMs.",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "depends_on",
+      "target": "NVIDIA",
+      "evidence": "Our datacenters depend on ... servers, including graphics processing units (\"GPUs\")",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "supplier_of",
+      "target": "Dell Technologies",
+      "evidence": "We have distribution agreements covering one or more of our products with virtually all the multinational OEMs, including Dell",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "supplier_of",
+      "target": "Hewlett-Packard",
+      "evidence": "We have distribution agreements covering one or more of our products with virtually all the multinational OEMs, including Hewlett-Packard",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "supplier_of",
+      "target": "Lenovo",
+      "evidence": "We have distribution agreements covering one or more of our products with virtually all the multinational OEMs, including Lenovo",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "partner_of",
+      "target": "Ecolab",
+      "evidence": "Mr. Althoff also serves on the Board of Directors of Ecolab Inc.",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "partner_of",
+      "target": "Alaska Air Group",
+      "evidence": "Ms. Hogan also serves on the Board of Directors of Alaska Air Group, Inc.",
+      "ticker": "MSFT",
+      "section": "1"
+    },
+    {
+      "source": "Activision Blizzard",
+      "relation": "subsidiary_of",
+      "target": "Microsoft",
+      "evidence": "we completed our acquisition of Activision Blizzard, Inc.",
+      "ticker": "MSFT",
+      "section": "1A"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "partner_of",
+      "target": "OpenAI",
+      "evidence": "we announced the third phase of our OpenAI strategic partnership",
+      "ticker": "MSFT",
+      "section": "1A"
+    },
+    {
+      "source": "LinkedIn",
+      "relation": "subsidiary_of",
+      "target": "Microsoft",
+      "evidence": "LinkedIn and other Microsoft products and services contain valuable information...",
+      "ticker": "MSFT",
+      "section": "1A"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "invests_in",
+      "target": "U.S. Government",
+      "evidence": "we maintain an investment portfolio... U.S. government securities",
+      "ticker": "MSFT",
+      "section": "1A"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "invests_in",
+      "target": "OpenAI",
+      "evidence": "Microsoft is a major investor in OpenAI, and the companies have reciprocal revenue-sharing arrangements.",
+      "ticker": "MSFT",
+      "section": "7"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "invests_in",
+      "target": "Activision Blizzard",
+      "evidence": "including the impact of the Activision Blizzard acquisition",
+      "ticker": "MSFT",
+      "section": "7"
+    },
+    {
+      "source": "Microsoft",
+      "relation": "customer_of",
+      "target": "Deloitte & Touche LLP",
+      "evidence": "engaged Deloitte & Touche LLP",
+      "ticker": "MSFT",
+      "section": "7"
+    }
+  ]
+}
