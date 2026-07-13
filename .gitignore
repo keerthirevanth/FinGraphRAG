@@ -34,9 +34,8 @@ data/vector_index/
 # Notebooks checkpoints
 .ipynb_checkpoints/
 
-# IDE / OS / tooling
+# IDE / OS
 .vscode/
 .idea/
-.claude/
 .DS_Store
 Thumbs.db
