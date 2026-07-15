@@ -10,15 +10,23 @@ the graph itself.
 The central idea: the questions that matter about a company sector are rarely
 answerable from a single document. "How is Tesla connected to TSMC?" or "Which
 companies are exposed to a disruption at Samsung?" require connecting facts
-that are scattered across dozens of separate filings. Vector search retrieves
-passages that look like the question and cannot follow those connections. A
-knowledge graph can.
+that are scattered across dozens of separate filings. Conventional chunk-based
+vector search retrieves passages that resemble the question but does not model
+the relationships between them, so it cannot assemble a chain of facts that
+lives in different documents. A knowledge graph stores those relationships
+explicitly and can traverse them.
 
 ## Results
 
-Both systems were evaluated on 76 questions in three categories, scored by
-entity recall against graph ground truth and by an LLM judge for correctness
-and faithfulness.
+Both systems were evaluated on 76 questions in three categories, scored on
+three metrics:
+
+- **Entity recall** — the fraction of the ground-truth entities (the companies
+  the reference answer names) that the system's answer actually mentions.
+- **Correctness** — an LLM judge rates the answer against the reference, from
+  0 to 1.
+- **Faithfulness** — an LLM judge rates whether every claim in the answer is
+  supported by the context the system retrieved.
 
 | Metric | Question type | Vector RAG | GraphRAG |
 |---|---|---|---|
@@ -33,8 +41,9 @@ and faithfulness.
 Two findings stand out:
 
 - **GraphRAG's advantage is largest exactly where it should be** — on
-  multi-hop and global questions, which have no single supporting passage. On
-  those, vector search is close to unusable (multi-hop correctness 0.03).
+  multi-hop and global questions, which typically have no single supporting
+  passage. On those, vector search is close to unusable (multi-hop
+  correctness 0.03).
 - **Vector RAG declined 47 of 76 questions** ("the excerpts do not mention a
   connection"), because the answer was not present in any one retrieved
   passage. GraphRAG declined only 2. Vector search stays marginally more
@@ -61,21 +70,27 @@ The pipeline runs in five stages, each a self-contained module.
    response is cached on disk, so the pipeline is fully resumable and never
    pays twice for the same chunk.
 
-3. **Graph construction** (`src/graph`). Merges the triples into a directed
-   knowledge graph, folding inverse relations (A customer_of B and B
-   supplier_of A become one edge) and recording every filing that corroborates
-   each edge. The result is 414 nodes and 656 edges, of which 21 are asserted
-   by more than one company's filing.
+3. **Graph construction** (`src/graph`). Merges the roughly 785 extracted
+   triples into a directed knowledge graph, folding inverse relations
+   (A customer_of B and B supplier_of A become one edge) and recording every
+   filing that corroborates each edge. The result is 414 nodes and 656 edges,
+   of which 21 are asserted by more than one company's filing.
 
 4. **Retrieval and answering** (`src/rag`, `src/vector`). Two systems answer
-   questions over the same corpus. The vector baseline embeds all filing
-   chunks locally and retrieves the most similar ones. GraphRAG links the
-   companies named in a question to graph nodes, collects the paths and
-   neighbourhood connecting them, and answers from those facts.
+   questions over the same corpus. The vector baseline splits the filings into
+   about 6,900 passages of roughly 1,200 characters, embeds them locally with
+   the `all-MiniLM-L12-v2` sentence-transformer, and retrieves the top five by
+   cosine similarity before answering. GraphRAG links the companies named in a
+   question to graph nodes, collects the paths and neighbourhood connecting
+   them, and answers from those facts.
 
 5. **Evaluation** (`src/eval`). Generates a question set whose answers are read
-   directly from graph structure, then scores both systems. Ground truth from
-   the graph means the evaluation is objective rather than hand-invented.
+   directly from graph structure, then scores both systems. Deriving the
+   reference answers from the graph makes the evaluation deterministic and
+   reproducible rather than hand-invented. It is important to be precise about
+   what this measures: both systems are compared on how well they retrieve and
+   use the *same extracted knowledge base*, not on absolute factual correctness
+   against the real world (see the limitations below).
 
 ## The API layer
 
@@ -156,6 +171,18 @@ streamlit run app/streamlit_app.py
   generically ("our ten largest customers") rather than naming them, so they
   contribute fewer edges. This is a property of the source data, and inventing
   edges to fill the gap would defeat the purpose.
+
+- **The ground truth is graph-derived, so the evaluation is not fully
+  independent.** The reference answers come from the same graph that GraphRAG
+  retrieves over, and that graph was itself built by an LLM. The benchmark
+  therefore measures which retrieval strategy best recovers what the knowledge
+  base contains, not absolute real-world correctness. This favours the graph
+  system by construction on the simpler questions, so those margins should be
+  read with that in mind. The multi-hop and global results are more robust:
+  the vector baseline fails there because it cannot combine facts across
+  documents at all, regardless of where the ground truth comes from. A fully
+  independent benchmark would use hand-labelled reference answers, which is the
+  natural next step.
 
 - **The evaluation surfaced a judge bias, which was corrected.** The LLM judge
   initially rewarded a system for correctly declining to answer, even when the
