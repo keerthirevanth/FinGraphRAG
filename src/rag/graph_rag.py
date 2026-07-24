@@ -51,9 +51,15 @@ Rules:
 class GraphRAG:
     """Graph-traversal retrieval with LLM answer generation."""
 
-    def __init__(self, client: Optional[LLMClient] = None) -> None:
+    def __init__(
+        self, client: Optional[LLMClient] = None, max_tokens: int = 1024
+    ) -> None:
         self.graph = load_graph()
         self.client = client or LLMClient()
+        # Some models (reasoning models in particular) spend a large share of
+        # the token budget on hidden reasoning before the visible answer, so
+        # this is overridable per-instance rather than a fixed constant.
+        self.max_tokens = max_tokens
         # Undirected view used for path finding: a supply relationship
         # connects two companies regardless of direction of travel.
         self._undirected = self.graph.to_undirected(as_view=True)
@@ -171,7 +177,7 @@ class GraphRAG:
                 },
             ],
             temperature=0.0,
-            max_tokens=1024,
+            max_tokens=self.max_tokens,
         )
         return {"question": question, "answer": response, **retrieval}
 

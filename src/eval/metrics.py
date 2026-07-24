@@ -92,11 +92,14 @@ def judge_answer(
     reference_answer: str,
     system_answer: str,
     context: str,
+    max_tokens: int = 300,
 ) -> Dict[str, float]:
     """Ask the LLM judge to score correctness and faithfulness.
 
     On an unparseable judgement the scores default to 0.0 with a note, so a
     malformed judge response is visible rather than silently dropped.
+    max_tokens is overridable: some models (reasoning models in particular)
+    spend much of the budget on hidden reasoning before the visible JSON.
     """
     user = (
         f"Question: {question}\n\n"
@@ -110,7 +113,7 @@ def judge_answer(
             {"role": "user", "content": user},
         ],
         temperature=0.0,
-        max_tokens=300,
+        max_tokens=max_tokens,
     )
     parsed = _parse_judge(raw)
     if parsed is None:

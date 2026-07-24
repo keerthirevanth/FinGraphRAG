@@ -38,10 +38,16 @@ def format_context(chunks: List[Dict]) -> str:
 class VectorRAG:
     """Retrieve-then-answer pipeline over the vector index."""
 
-    def __init__(self, client: LLMClient = None, top_k: int = 5) -> None:
+    def __init__(
+        self, client: LLMClient = None, top_k: int = 5, max_tokens: int = 1024
+    ) -> None:
         self.index = VectorIndex()
         self.client = client or LLMClient()
         self.top_k = top_k
+        # Some models (reasoning models in particular) spend a large share of
+        # the token budget on hidden reasoning before the visible answer, so
+        # this is overridable per-instance rather than a fixed constant.
+        self.max_tokens = max_tokens
 
     def retrieve(self, question: str) -> List[Dict]:
         """Return the chunks used as context for a question."""
@@ -66,7 +72,7 @@ class VectorRAG:
                 },
             ],
             temperature=0.0,
-            max_tokens=1024,
+            max_tokens=self.max_tokens,
         )
         return {"question": question, "answer": response, "chunks": chunks}
 
