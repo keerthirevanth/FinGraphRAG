@@ -141,8 +141,8 @@ def render_evaluation() -> None:
 
 
 def main() -> None:
-    st.set_page_config(page_title="GraphRAG vs Vector RAG", layout="wide")
-    st.title("Knowledge-Graph RAG over SEC 10-K Filings")
+    st.set_page_config(page_title="FinGraphRAG", layout="wide")
+    st.title("FinGraphRAG: Knowledge-Graph RAG over Company Annual Filings")
     st.write(
         "Comparing graph-based retrieval against vector retrieval on questions "
         "about the AI / semiconductor / cloud ecosystem."

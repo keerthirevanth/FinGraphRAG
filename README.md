@@ -1,4 +1,4 @@
-# Knowledge-Graph RAG over SEC 10-K Filings
+# FinGraphRAG: Knowledge-Graph RAG over Company Annual Filings
 
 A retrieval-augmented question-answering system that answers questions about
 the relationships between companies in the AI / semiconductor / cloud
